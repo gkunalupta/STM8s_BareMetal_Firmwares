@@ -1,0 +1,17 @@
+;	STMicroelectronics dependencies file
+
+[Version]
+Keyword=ST7Project
+Number=1.3
+
+[Root.Source Files...\bare_metal_drivers\stm8_driver_source\gb_stm8s103_delay.c.Config.0]
+ExternDep=  ..\bare_metal_drivers\stm8_driver_source\gb_stm8s103_delay.c  "C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\HSTM8\mods0.h"  ..\bare_metal_drivers\stm8_driver_include\GB_STM8s103_delay.h  ..\bare_metal_drivers\stm8_default_headers\stm8s.h  "C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\HSTM8\stdio.h"
+
+[Root.Source Files...\bare_metal_drivers\stm8_driver_source\gb_stm8s103_gpio.c.Config.0]
+ExternDep=  ..\bare_metal_drivers\stm8_driver_source\gb_stm8s103_gpio.c  "C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\HSTM8\mods0.h"  ..\bare_metal_drivers\stm8_driver_include\GB_STM8s103_gpio.h  ..\bare_metal_drivers\stm8_default_headers\stm8s.h  "C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\HSTM8\stdio.h"
+
+[Root.Source Files.main.c.Config.0]
+ExternDep= main.c  "C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\HSTM8\mods0.h"  ..\bare_metal_drivers\stm8_default_headers\stm8s.h  "C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\HSTM8\stdio.h"  ..\bare_metal_drivers\stm8_driver_include\GB_STM8s103_delay.h  ..\bare_metal_drivers\stm8_driver_include\GB_STM8s103_gpio.h
+
+[Root.Source Files.stm8_interrupt_vector.c.Config.0]
+ExternDep= stm8_interrupt_vector.c  "C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\HSTM8\mods0.h"

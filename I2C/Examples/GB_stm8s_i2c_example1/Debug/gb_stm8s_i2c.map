@@ -1,0 +1,226 @@
+
+Map of Debug\gb_stm8s_i2c.sm8 from link file Debug\gb_stm8s_i2c.lkf - Thu Jun 10 00:18:23 2021
+
+
+                               --------
+                               Segments
+                               --------
+
+start 00008080 end 00008080 length     0 segment .const
+start 00008083 end 00008277 length   500 segment .text
+start 00004000 end 00004000 length     0 segment .eeprom
+start 00000000 end 00000000 length     0 segment .bsct
+start 00000000 end 00000009 length     9 segment .ubsct
+start 00000009 end 00000009 length     0 segment .bit
+start 00000009 end 00000009 length     0 segment .share
+start 00000100 end 00000100 length     0 segment .data
+start 00000100 end 00000100 length     0 segment .bss
+start 00000000 end 0000038f length   911 segment .info.
+start 00000000 end 00000d10 length  3344 segment .debug
+start 00008000 end 00008080 length   128 segment .const
+start 00008080 end 00008083 length     3 segment .init
+
+
+                               -------
+                               Modules
+                               -------
+
+C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8:
+start 00008083 end 000080d3 length    80 section .text
+start 00000100 end 00000100 length     0 section .bss
+start 00000000 end 00000000 length     0 section .ubsct
+start 00000000 end 00000034 length    52 section .info.
+
+Debug\gb_stm8s103_delay.o:
+start 000080d3 end 0000814b length   120 section .text
+start 00000000 end 00000265 length   613 section .debug
+start 00000034 end 000000ac length   120 section .info.
+
+Debug\gb_stm8s103_gpio.o:
+start 0000814b end 00008160 length    21 section .text
+start 00000265 end 00000327 length   194 section .debug
+start 000000ac end 00000123 length   119 section .info.
+
+Debug\gb_stm8s103_i2c.o:
+start 00008160 end 0000822b length   203 section .text
+start 00000000 end 00000001 length     1 section .ubsct
+start 00000327 end 0000071e length  1015 section .debug
+start 00000123 end 00000199 length   118 section .info.
+
+Debug\gb_stm8s103_uart.o:
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .bsct *** removed ***
+start 0000071e end 00000abb length   925 section .debug
+start 00000199 end 00000210 length   119 section .info.
+
+Debug\main.o:
+start 0000822b end 00008276 length    75 section .text
+start 00000001 end 00000003 length     2 section .ubsct
+start 00000abb end 00000ba5 length   234 section .debug
+start 00000210 end 0000027b length   107 section .info.
+
+(C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\libm0.sm8)xreg.o:
+start 00000003 end 00000006 length     3 section .ubsct
+start 0000027b end 000002aa length    47 section .info.
+
+(C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\libm0.sm8)yreg.o:
+start 00000006 end 00000009 length     3 section .ubsct
+start 000002aa end 000002d9 length    47 section .info.
+
+Debug\stm8_interrupt_vector.o:
+start 00008276 end 00008277 length     1 section .text
+start 00000ba5 end 00000d10 length   363 section .debug
+start 000002d9 end 00000355 length   124 section .info.
+start 00008000 end 00008080 length   128 section .const
+
+
+                             -----------
+                             Stack usage
+                             -----------
+
+Debug\gb_stm8s103_delay.o:
+_gb_delay_ms                   12   (8)
+_gb_delay_sec              >   18   (6)
+_gb_delay_us                    4   (4)
+_gb_timer_init                  2   (2)
+
+Debug\gb_stm8s103_gpio.o:
+_gb_bled_conf                   2   (2)
+
+Debug\gb_stm8s103_i2c.o:
+_gb_2byte_receive               4   (4)
+_gb_i2c_address_send_r          2   (2)
+_gb_i2c_address_send_w          2   (2)
+_gb_i2c_databyte_send           2   (2)
+_gb_i2c_master_init             2   (2)
+_gb_i2c_start_condition_r       2   (2)
+_gb_i2c_start_condition_w       2   (2)
+_gb_i2c_stop_generation         2   (2)
+_gb_single_byte_receive    >    3   (3)
+
+Debug\main.o:
+_main                      >   14   (2)
+
+Debug\stm8_interrupt_vector.o:
+f_NonHandledInterrupt      >    6   (6)
+
+Stack size: 24
+
+
+                              ---------
+                              Call tree
+                              ---------
+   1 > __stext: (0)
+
+   2 > _gb_delay_sec: (6)
+   3      + _gb_delay_ms: (8)
+   4      |    + _gb_delay_us: (4)
+          | 
+       
+   5 > _gb_single_byte_receive: (3)
+
+   6 > _main: (2)
+   7      + _gb_2byte_receive: (4)
+   8      + _gb_bled_conf: (2)
+   9      + _gb_delay_ms --> 3
+  10      + _gb_i2c_address_send_r: (2)
+  11      + _gb_i2c_address_send_w: (2)
+  12      + _gb_i2c_databyte_send: (2)
+  13      + _gb_i2c_master_init: (2)
+  14      + _gb_i2c_start_condition_r: (2)
+  15      + _gb_i2c_start_condition_w: (2)
+  16      + _gb_i2c_stop_generation: (2)
+  17      + _gb_timer_init: (2)
+       
+  18 > f_NonHandledInterrupt: (6)
+
+  19   _gb_2byte_receive --> 7
+
+  20   _gb_bled_conf --> 8
+
+  21   _gb_delay_ms --> 3
+
+  22   _gb_delay_us --> 4
+
+  23   _gb_i2c_address_send_r --> 10
+
+  24   _gb_i2c_address_send_w --> 11
+
+  25   _gb_i2c_databyte_send --> 12
+
+  26   _gb_i2c_master_init --> 13
+
+  27   _gb_i2c_start_condition_r --> 14
+
+  28   _gb_i2c_start_condition_w --> 15
+
+  29   _gb_i2c_stop_generation --> 16
+
+  30   _gb_timer_init --> 17
+
+
+
+                               -------
+                               Symbols
+                               -------
+
+__endmem                    000001ff   defined in command file
+                                       *** not used ***
+__endzp                     00000009   defined in command file section .ubsct
+                                       used in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8
+__idesc__                   00008080   defined in linker section .init
+                                       used in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8
+__memory                    00000100   defined in command file section .bss
+                                       used in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8
+__stack                     000003ff   defined in command file
+                                       used in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8
+__startmem                  00000100   defined in command file section .bss
+                                       *** not used ***
+__stext                     00008083   defined in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8 section .text
+                                       used in Debug\stm8_interrupt_vector.o
+__vectab                    00008000   defined in Debug\stm8_interrupt_vector.o section .const
+_exit                       000080d1   defined in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8 section .text
+_gb_2byte_receive           000081fb   defined in Debug\gb_stm8s103_i2c.o section .text
+                                       used in Debug\main.o
+_gb_bled_conf               0000814b   defined in Debug\gb_stm8s103_gpio.o section .text
+                                       used in Debug\main.o
+_gb_delay_ms                00008110   defined in Debug\gb_stm8s103_delay.o section .text
+                                       used in Debug\main.o
+_gb_delay_sec               0000812d   defined in Debug\gb_stm8s103_delay.o section .text
+_gb_delay_us                000080f8   defined in Debug\gb_stm8s103_delay.o section .text
+_gb_i2c_address_send_r      000081bf   defined in Debug\gb_stm8s103_i2c.o section .text
+                                       used in Debug\main.o
+_gb_i2c_address_send_w      000081aa   defined in Debug\gb_stm8s103_i2c.o section .text
+                                       used in Debug\main.o
+_gb_i2c_databyte_send       0000821b   defined in Debug\gb_stm8s103_i2c.o section .text
+                                       used in Debug\main.o
+_gb_i2c_master_init         00008160   defined in Debug\gb_stm8s103_i2c.o section .text
+                                       used in Debug\main.o
+_gb_i2c_start_condition_r   00008195   defined in Debug\gb_stm8s103_i2c.o section .text
+                                       used in Debug\main.o
+_gb_i2c_start_condition_w   00008175   defined in Debug\gb_stm8s103_i2c.o section .text
+                                       used in Debug\main.o
+_gb_i2c_stop_generation     00008226   defined in Debug\gb_stm8s103_i2c.o section .text
+                                       used in Debug\main.o
+_gb_lsb                     00000001   defined in Debug\main.o section .ubsct
+_gb_msb                     00000002   defined in Debug\main.o section .ubsct
+_gb_read_reg                00000000   defined in Debug\gb_stm8s103_i2c.o section .ubsct
+_gb_single_byte_receive     000081e1   defined in Debug\gb_stm8s103_i2c.o section .text
+_gb_timer_init              000080d3   defined in Debug\gb_stm8s103_delay.o section .text
+                                       used in Debug\main.o
+_gb_tmp                     ********   *** removed from Debug\gb_stm8s103_uart.o ***
+_gb_uart1_baud              ********   *** removed from Debug\gb_stm8s103_uart.o ***
+_gb_uart1_pin_conf          ********   *** removed from Debug\gb_stm8s103_uart.o ***
+_gb_uart_init               ********   *** removed from Debug\gb_stm8s103_uart.o ***
+_gb_uart_receive_byte       ********   *** removed from Debug\gb_stm8s103_uart.o ***
+_gb_uart_tran_bin_byte      ********   *** removed from Debug\gb_stm8s103_uart.o ***
+_gb_uart_tran_byte          ********   *** removed from Debug\gb_stm8s103_uart.o ***
+_gb_uart_tran_dec           ********   *** removed from Debug\gb_stm8s103_uart.o ***
+_gb_uart_tran_string        ********   *** removed from Debug\gb_stm8s103_uart.o ***
+_main                       0000822b   defined in Debug\main.o section .text
+                                       used in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8
+c_x                         00000003   defined in (C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\libm0.sm8)xreg.o section .ubsct
+                                       used in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8
+c_y                         00000006   defined in (C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\libm0.sm8)yreg.o section .ubsct
+                                       used in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8
+f_NonHandledInterrupt       00008276   defined in Debug\stm8_interrupt_vector.o section .text
