@@ -1,0 +1,13 @@
+..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_delay.c
+..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_gpio.c
+..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_spi.c
+..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_uart.c
+main.c
+stm8_interrupt_vector.c
+..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h
+..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_delay.h
+..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_gpio.h
+..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_spi.h
+..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_uart.h
+..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\mods0.h
+..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h

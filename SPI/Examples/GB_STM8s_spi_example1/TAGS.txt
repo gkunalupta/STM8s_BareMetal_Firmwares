@@ -1,0 +1,1697 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ADC1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2606;"	macro
+ADC1_AWCRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	356;"	macro
+ADC1_AWCRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	357;"	macro
+ADC1_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2589;"	macro
+ADC1_CR1_ADON	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	373;"	macro
+ADC1_CR1_CONT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	372;"	macro
+ADC1_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	347;"	macro
+ADC1_CR1_SPSEL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	371;"	macro
+ADC1_CR2_ALIGN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	377;"	macro
+ADC1_CR2_EXTSEL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	376;"	macro
+ADC1_CR2_EXTTRIG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	375;"	macro
+ADC1_CR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	348;"	macro
+ADC1_CR2_SCAN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	378;"	macro
+ADC1_CR3_DBUF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	380;"	macro
+ADC1_CR3_OVR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	381;"	macro
+ADC1_CR3_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	349;"	macro
+ADC1_CSR_AWD	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	366;"	macro
+ADC1_CSR_AWDIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	368;"	macro
+ADC1_CSR_CH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	369;"	macro
+ADC1_CSR_EOC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	365;"	macro
+ADC1_CSR_EOCIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	367;"	macro
+ADC1_CSR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	346;"	macro
+ADC1_HTRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	353;"	macro
+ADC1_HTRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	352;"	macro
+ADC1_LTRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	354;"	macro
+ADC1_LTRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	355;"	macro
+ADC1_TDRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	351;"	macro
+ADC1_TDRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	350;"	macro
+ADC1_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	341;"	typedef	typeref:struct:ADC1_struct
+ADC1_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	301;"	struct
+ADC2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2611;"	macro
+ADC2_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2590;"	macro
+ADC2_CR1_ADON	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	427;"	macro
+ADC2_CR1_CONT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	426;"	macro
+ADC2_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	410;"	macro
+ADC2_CR1_SPSEL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	425;"	macro
+ADC2_CR2_ALIGN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	431;"	macro
+ADC2_CR2_EXTSEL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	430;"	macro
+ADC2_CR2_EXTTRIG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	429;"	macro
+ADC2_CR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	411;"	macro
+ADC2_CSR_CH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	423;"	macro
+ADC2_CSR_EOC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	421;"	macro
+ADC2_CSR_EOCIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	422;"	macro
+ADC2_CSR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	409;"	macro
+ADC2_TDRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	413;"	macro
+ADC2_TDRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	412;"	macro
+ADC2_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	404;"	typedef	typeref:struct:ADC2_struct
+ADC2_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	393;"	struct
+APR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	446;"	member	struct:AWU_struct
+AREA	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2823;"	macro
+ARR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1073;"	member	struct:TIM4_struct
+ARR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1273;"	member	struct:TIM6_struct
+ARRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1141;"	member	struct:TIM5_struct
+ARRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	635;"	member	struct:TIM1_struct
+ARRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	846;"	member	struct:TIM2_struct
+ARRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	968;"	member	struct:TIM3_struct
+ARRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1142;"	member	struct:TIM5_struct
+ARRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	636;"	member	struct:TIM1_struct
+ARRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	847;"	member	struct:TIM2_struct
+ARRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	969;"	member	struct:TIM3_struct
+AWCRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	338;"	member	struct:ADC1_struct
+AWCRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	339;"	member	struct:ADC1_struct
+AWSRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	336;"	member	struct:ADC1_struct
+AWSRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	337;"	member	struct:ADC1_struct
+AWU	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2614;"	macro
+AWU_APR_APR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	470;"	macro
+AWU_APR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	455;"	macro
+AWU_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2575;"	macro
+AWU_CSR_AWUEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	467;"	macro
+AWU_CSR_AWUF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	466;"	macro
+AWU_CSR_MSR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	468;"	macro
+AWU_CSR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	454;"	macro
+AWU_TBR_AWUTB	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	472;"	macro
+AWU_TBR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	456;"	macro
+AWU_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	449;"	typedef	typeref:struct:AWU_struct
+AWU_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	443;"	struct
+AffBit	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2796;"	macro
+BEEP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2616;"	macro
+BEEP_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2576;"	macro
+BEEP_CSR_BEEPDIV	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	502;"	macro
+BEEP_CSR_BEEPEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	501;"	macro
+BEEP_CSR_BEEPSEL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	500;"	macro
+BEEP_CSR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	492;"	macro
+BEEP_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	487;"	typedef	typeref:struct:BEEP_struct
+BEEP_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	483;"	struct
+BKR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	646;"	member	struct:TIM1_struct
+BRR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1774;"	member	struct:UART1_struct
+BRR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1872;"	member	struct:UART2_struct
+BRR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1979;"	member	struct:UART3_struct
+BRR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2071;"	member	struct:UART4_struct
+BRR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1775;"	member	struct:UART1_struct
+BRR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1873;"	member	struct:UART2_struct
+BRR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1980;"	member	struct:UART3_struct
+BRR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2072;"	member	struct:UART4_struct
+BTR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2300;"	member	struct:__anon5::__anon6::__anon12
+BTR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2301;"	member	struct:__anon5::__anon6::__anon12
+BUFSIZ	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h	26;"	macro
+BYTE_0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2803;"	macro
+BYTE_1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2804;"	macro
+BYTE_2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2805;"	macro
+BYTE_3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2806;"	macro
+BitAction	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	236;"	typedef	typeref:enum:__anon2
+BitClr	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2825;"	macro
+BitSet	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2826;"	macro
+BitStatus	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	236;"	typedef	typeref:enum:__anon2
+BitVal	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2827;"	macro
+CAN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2619;"	macro
+CAN_BTR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2507;"	macro
+CAN_BTR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2508;"	macro
+CAN_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2591;"	macro
+CAN_DGR_LBKM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2386;"	macro
+CAN_DGR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2500;"	macro
+CAN_DGR_RX	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2389;"	macro
+CAN_DGR_SAMP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2388;"	macro
+CAN_DGR_SLIM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2387;"	macro
+CAN_DGR_TXM2E	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2390;"	macro
+CAN_EIER_BOFIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2427;"	macro
+CAN_EIER_EPVIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2426;"	macro
+CAN_EIER_ERRIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2429;"	macro
+CAN_EIER_EWGIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2425;"	macro
+CAN_EIER_LECIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2428;"	macro
+CAN_EIER_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2504;"	macro
+CAN_ESR_BOFF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2418;"	macro
+CAN_ESR_EPVF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2417;"	macro
+CAN_ESR_EWGF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2416;"	macro
+CAN_ESR_LEC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2422;"	macro
+CAN_ESR_LEC0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2419;"	macro
+CAN_ESR_LEC1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2420;"	macro
+CAN_ESR_LEC2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2421;"	macro
+CAN_ESR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2503;"	macro
+CAN_FCR1_FACT0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2467;"	macro
+CAN_FCR1_FACT1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2468;"	macro
+CAN_FCR1_FSC00	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2474;"	macro
+CAN_FCR1_FSC01	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2475;"	macro
+CAN_FCR1_FSC10	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2476;"	macro
+CAN_FCR1_FSC11	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2477;"	macro
+CAN_FCR2_FACT2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2469;"	macro
+CAN_FCR2_FACT3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2470;"	macro
+CAN_FCR2_FSC20	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2478;"	macro
+CAN_FCR2_FSC21	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2479;"	macro
+CAN_FCR2_FSC30	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2480;"	macro
+CAN_FCR2_FSC31	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2481;"	macro
+CAN_FCR3_FACT4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2471;"	macro
+CAN_FCR3_FACT5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2472;"	macro
+CAN_FCR3_FSC40	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2482;"	macro
+CAN_FCR3_FSC41	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2483;"	macro
+CAN_FCR3_FSC50	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2484;"	macro
+CAN_FCR3_FSC51	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2485;"	macro
+CAN_FCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2511;"	macro
+CAN_FMR1_FMH0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2453;"	macro
+CAN_FMR1_FMH1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2455;"	macro
+CAN_FMR1_FMH2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2457;"	macro
+CAN_FMR1_FMH3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2459;"	macro
+CAN_FMR1_FML0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2452;"	macro
+CAN_FMR1_FML1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2454;"	macro
+CAN_FMR1_FML2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2456;"	macro
+CAN_FMR1_FML3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2458;"	macro
+CAN_FMR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2509;"	macro
+CAN_FMR2_FMH4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2462;"	macro
+CAN_FMR2_FMH5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2464;"	macro
+CAN_FMR2_FML4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2461;"	macro
+CAN_FMR2_FML5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2463;"	macro
+CAN_FMR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2510;"	macro
+CAN_IER_FFIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2380;"	macro
+CAN_IER_FMPIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2379;"	macro
+CAN_IER_FOVIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2381;"	macro
+CAN_IER_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2499;"	macro
+CAN_IER_TMEIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2378;"	macro
+CAN_IER_WKUIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2382;"	macro
+CAN_MCR_ABOM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2344;"	macro
+CAN_MCR_AWUM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2343;"	macro
+CAN_MCR_INRQ	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2338;"	macro
+CAN_MCR_NART	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2342;"	macro
+CAN_MCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2494;"	macro
+CAN_MCR_RFLM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2341;"	macro
+CAN_MCR_SLEEP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2339;"	macro
+CAN_MCR_TTCM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2345;"	macro
+CAN_MCR_TXFP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2340;"	macro
+CAN_MCSR_ABRQ	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2400;"	macro
+CAN_MCSR_ALST	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2403;"	macro
+CAN_MCSR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2515;"	macro
+CAN_MCSR_RQCP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2401;"	macro
+CAN_MCSR_TERR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2404;"	macro
+CAN_MCSR_TXOK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2402;"	macro
+CAN_MCSR_TXRQ	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2399;"	macro
+CAN_MDLCR_DLC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2406;"	macro
+CAN_MDLCR_TGT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2407;"	macro
+CAN_MDLC_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2514;"	macro
+CAN_MFMI_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2513;"	macro
+CAN_MIDR1_IDE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2410;"	macro
+CAN_MIDR1_RTR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2409;"	macro
+CAN_MSR_ERRI	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2350;"	macro
+CAN_MSR_INAK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2348;"	macro
+CAN_MSR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2495;"	macro
+CAN_MSR_RX	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2353;"	macro
+CAN_MSR_SLAK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2349;"	macro
+CAN_MSR_TX	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2352;"	macro
+CAN_MSR_WKUI	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2351;"	macro
+CAN_PSR_PS0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2394;"	macro
+CAN_PSR_PS1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2395;"	macro
+CAN_PSR_PS2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2396;"	macro
+CAN_PSR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2501;"	macro
+CAN_RECR_REC0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2442;"	macro
+CAN_RECR_REC1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2443;"	macro
+CAN_RECR_REC2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2444;"	macro
+CAN_RECR_REC3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2445;"	macro
+CAN_RECR_REC4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2446;"	macro
+CAN_RECR_REC5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2447;"	macro
+CAN_RECR_REC6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2448;"	macro
+CAN_RECR_REC7	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2449;"	macro
+CAN_RECR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2506;"	macro
+CAN_RFR_FMP01	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2372;"	macro
+CAN_RFR_FOVR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2374;"	macro
+CAN_RFR_FULL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2373;"	macro
+CAN_RFR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2498;"	macro
+CAN_RFR_RFOM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2375;"	macro
+CAN_TECR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2505;"	macro
+CAN_TECR_TEC0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2432;"	macro
+CAN_TECR_TEC1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2433;"	macro
+CAN_TECR_TEC2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2434;"	macro
+CAN_TECR_TEC3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2435;"	macro
+CAN_TECR_TEC4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2436;"	macro
+CAN_TECR_TEC5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2437;"	macro
+CAN_TECR_TEC6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2438;"	macro
+CAN_TECR_TEC7	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2439;"	macro
+CAN_TPR_CODE0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2364;"	macro
+CAN_TPR_LOW0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2368;"	macro
+CAN_TPR_LOW1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2369;"	macro
+CAN_TPR_LOW2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2370;"	macro
+CAN_TPR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2497;"	macro
+CAN_TPR_TME0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2365;"	macro
+CAN_TPR_TME1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2366;"	macro
+CAN_TPR_TME2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2367;"	macro
+CAN_TSR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2496;"	macro
+CAN_TSR_RQCP0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2356;"	macro
+CAN_TSR_RQCP012	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2359;"	macro
+CAN_TSR_RQCP1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2357;"	macro
+CAN_TSR_RQCP2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2358;"	macro
+CAN_TSR_TXOK0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2360;"	macro
+CAN_TSR_TXOK1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2361;"	macro
+CAN_TSR_TXOK2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2362;"	macro
+CAN_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2331;"	typedef	typeref:struct:__anon5
+CCER1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1136;"	member	struct:TIM5_struct
+CCER1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	629;"	member	struct:TIM1_struct
+CCER1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	841;"	member	struct:TIM2_struct
+CCER1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	964;"	member	struct:TIM3_struct
+CCER2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1137;"	member	struct:TIM5_struct
+CCER2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	630;"	member	struct:TIM1_struct
+CCER2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	842;"	member	struct:TIM2_struct
+CCMR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1133;"	member	struct:TIM5_struct
+CCMR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	625;"	member	struct:TIM1_struct
+CCMR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	838;"	member	struct:TIM2_struct
+CCMR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	962;"	member	struct:TIM3_struct
+CCMR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1134;"	member	struct:TIM5_struct
+CCMR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	626;"	member	struct:TIM1_struct
+CCMR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	839;"	member	struct:TIM2_struct
+CCMR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	963;"	member	struct:TIM3_struct
+CCMR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1135;"	member	struct:TIM5_struct
+CCMR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	627;"	member	struct:TIM1_struct
+CCMR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	840;"	member	struct:TIM2_struct
+CCMR4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	628;"	member	struct:TIM1_struct
+CCMR_TIxDirect_Set	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	758;"	macro
+CCOR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	522;"	member	struct:CLK_struct
+CCR1H	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1143;"	member	struct:TIM5_struct
+CCR1H	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	638;"	member	struct:TIM1_struct
+CCR1H	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	848;"	member	struct:TIM2_struct
+CCR1H	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	970;"	member	struct:TIM3_struct
+CCR1L	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1144;"	member	struct:TIM5_struct
+CCR1L	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	639;"	member	struct:TIM1_struct
+CCR1L	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	849;"	member	struct:TIM2_struct
+CCR1L	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	971;"	member	struct:TIM3_struct
+CCR2H	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1145;"	member	struct:TIM5_struct
+CCR2H	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	640;"	member	struct:TIM1_struct
+CCR2H	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	850;"	member	struct:TIM2_struct
+CCR2H	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	972;"	member	struct:TIM3_struct
+CCR2L	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1146;"	member	struct:TIM5_struct
+CCR2L	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	641;"	member	struct:TIM1_struct
+CCR2L	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	851;"	member	struct:TIM2_struct
+CCR2L	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	973;"	member	struct:TIM3_struct
+CCR3H	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1147;"	member	struct:TIM5_struct
+CCR3H	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	642;"	member	struct:TIM1_struct
+CCR3H	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	852;"	member	struct:TIM2_struct
+CCR3L	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1148;"	member	struct:TIM5_struct
+CCR3L	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	643;"	member	struct:TIM1_struct
+CCR3L	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	853;"	member	struct:TIM2_struct
+CCR4H	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	644;"	member	struct:TIM1_struct
+CCR4L	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	645;"	member	struct:TIM1_struct
+CCRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1345;"	member	struct:I2C_struct
+CCRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1344;"	member	struct:I2C_struct
+CFG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2705;"	macro
+CFG_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2592;"	macro
+CFG_GCR_AL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2546;"	macro
+CFG_GCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2535;"	macro
+CFG_GCR_SWD	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2545;"	macro
+CFG_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2529;"	typedef	typeref:struct:CFG_struct
+CFG_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2525;"	struct
+CKDIVR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	519;"	member	struct:CLK_struct
+CLK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2622;"	macro
+CLK_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2572;"	macro
+CLK_CCOR_CCOBSY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	597;"	macro
+CLK_CCOR_CCOEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	600;"	macro
+CLK_CCOR_CCORDY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	598;"	macro
+CLK_CCOR_CCOSEL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	599;"	macro
+CLK_CCOR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	543;"	macro
+CLK_CKDIVR_CPUDIV	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	574;"	macro
+CLK_CKDIVR_HSIDIV	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	573;"	macro
+CLK_CKDIVR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	539;"	macro
+CLK_CMSR_CKM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	564;"	macro
+CLK_CMSR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	536;"	macro
+CLK_CSSR_AUX	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	594;"	macro
+CLK_CSSR_CSSD	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	592;"	macro
+CLK_CSSR_CSSDIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	593;"	macro
+CLK_CSSR_CSSEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	595;"	macro
+CLK_CSSR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	542;"	macro
+CLK_ECKR_HSEEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	562;"	macro
+CLK_ECKR_HSERDY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	561;"	macro
+CLK_ECKR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	535;"	macro
+CLK_HSITRIMR_HSITRIM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	602;"	macro
+CLK_HSITRIMR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	544;"	macro
+CLK_ICKR_FHWU	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	557;"	macro
+CLK_ICKR_HSIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	559;"	macro
+CLK_ICKR_HSIRDY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	558;"	macro
+CLK_ICKR_LSIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	556;"	macro
+CLK_ICKR_LSIRDY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	555;"	macro
+CLK_ICKR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	534;"	macro
+CLK_ICKR_SWUAH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	554;"	macro
+CLK_PCKENR1_I2C	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	586;"	macro
+CLK_PCKENR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	540;"	macro
+CLK_PCKENR1_SPI	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	585;"	macro
+CLK_PCKENR1_TIM1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	576;"	macro
+CLK_PCKENR1_TIM2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	578;"	macro
+CLK_PCKENR1_TIM3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	577;"	macro
+CLK_PCKENR1_TIM4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	580;"	macro
+CLK_PCKENR1_TIM5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	579;"	macro
+CLK_PCKENR1_TIM6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	581;"	macro
+CLK_PCKENR1_UART1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	584;"	macro
+CLK_PCKENR1_UART2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	583;"	macro
+CLK_PCKENR1_UART3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	582;"	macro
+CLK_PCKENR2_ADC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	589;"	macro
+CLK_PCKENR2_AWU	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	590;"	macro
+CLK_PCKENR2_CAN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	588;"	macro
+CLK_PCKENR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	541;"	macro
+CLK_SWCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	538;"	macro
+CLK_SWCR_SWBSY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	571;"	macro
+CLK_SWCR_SWEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	570;"	macro
+CLK_SWCR_SWIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	569;"	macro
+CLK_SWCR_SWIF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	568;"	macro
+CLK_SWIMCCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	545;"	macro
+CLK_SWIMCCR_SWIMDIV	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	604;"	macro
+CLK_SWR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	537;"	macro
+CLK_SWR_SWI	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	566;"	macro
+CLK_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	528;"	typedef	typeref:struct:CLK_struct
+CLK_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	511;"	struct
+CMSR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	516;"	member	struct:CLK_struct
+CNTR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1071;"	member	struct:TIM4_struct
+CNTR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1271;"	member	struct:TIM6_struct
+CNTRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1138;"	member	struct:TIM5_struct
+CNTRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	631;"	member	struct:TIM1_struct
+CNTRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	843;"	member	struct:TIM2_struct
+CNTRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	965;"	member	struct:TIM3_struct
+CNTRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1139;"	member	struct:TIM5_struct
+CNTRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	632;"	member	struct:TIM1_struct
+CNTRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	844;"	member	struct:TIM2_struct
+CNTRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	966;"	member	struct:TIM3_struct
+CONST	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	129;"	macro
+CONST	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	135;"	macro
+CONST	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	149;"	macro
+CPU_CC_I1I0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1465;"	macro
+CR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1638;"	member	struct:WWDG_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1063;"	member	struct:TIM4_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1126;"	member	struct:TIM5_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1265;"	member	struct:TIM6_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1333;"	member	struct:I2C_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1478;"	member	struct:EXTI_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1519;"	member	struct:FLASH_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1701;"	member	struct:SPI_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1776;"	member	struct:UART1_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1874;"	member	struct:UART2_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1981;"	member	struct:UART3_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2073;"	member	struct:UART4_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	273;"	member	struct:GPIO_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	325;"	member	struct:ADC1_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	396;"	member	struct:ADC2_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	617;"	member	struct:TIM1_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	829;"	member	struct:TIM2_struct
+CR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	957;"	member	struct:TIM3_struct
+CR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1127;"	member	struct:TIM5_struct
+CR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1266;"	member	struct:TIM6_struct
+CR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1334;"	member	struct:I2C_struct
+CR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1479;"	member	struct:EXTI_struct
+CR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1520;"	member	struct:FLASH_struct
+CR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1702;"	member	struct:SPI_struct
+CR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1777;"	member	struct:UART1_struct
+CR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1875;"	member	struct:UART2_struct
+CR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1982;"	member	struct:UART3_struct
+CR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2074;"	member	struct:UART4_struct
+CR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	274;"	member	struct:GPIO_struct
+CR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	326;"	member	struct:ADC1_struct
+CR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	397;"	member	struct:ADC2_struct
+CR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	618;"	member	struct:TIM1_struct
+CR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1778;"	member	struct:UART1_struct
+CR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1876;"	member	struct:UART2_struct
+CR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1983;"	member	struct:UART3_struct
+CR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2075;"	member	struct:UART4_struct
+CR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	327;"	member	struct:ADC1_struct
+CR4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1779;"	member	struct:UART1_struct
+CR4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1877;"	member	struct:UART2_struct
+CR4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1984;"	member	struct:UART3_struct
+CR4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2076;"	member	struct:UART4_struct
+CR5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1780;"	member	struct:UART1_struct
+CR5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1878;"	member	struct:UART2_struct
+CR5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2077;"	member	struct:UART4_struct
+CR6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1879;"	member	struct:UART2_struct
+CR6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1986;"	member	struct:UART3_struct
+CR6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2078;"	member	struct:UART4_struct
+CRCPR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1706;"	member	struct:SPI_struct
+CSR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	324;"	member	struct:ADC1_struct
+CSR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	395;"	member	struct:ADC2_struct
+CSR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	445;"	member	struct:AWU_struct
+CSR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	485;"	member	struct:BEEP_struct
+CSSR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	521;"	member	struct:CLK_struct
+ChgBit	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2795;"	macro
+ClrBit	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2793;"	macro
+Config	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2309;"	member	union:__anon5::__anon6	typeref:struct:__anon5::__anon6::__anon12
+DB0RH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	303;"	member	struct:ADC1_struct
+DB0RL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	304;"	member	struct:ADC1_struct
+DB1RH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	305;"	member	struct:ADC1_struct
+DB1RL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	306;"	member	struct:ADC1_struct
+DB2RH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	307;"	member	struct:ADC1_struct
+DB2RL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	308;"	member	struct:ADC1_struct
+DB3RH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	309;"	member	struct:ADC1_struct
+DB3RL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	310;"	member	struct:ADC1_struct
+DB4RH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	311;"	member	struct:ADC1_struct
+DB4RL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	312;"	member	struct:ADC1_struct
+DB5RH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	313;"	member	struct:ADC1_struct
+DB5RL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	314;"	member	struct:ADC1_struct
+DB6RH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	315;"	member	struct:ADC1_struct
+DB6RL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	316;"	member	struct:ADC1_struct
+DB7RH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	317;"	member	struct:ADC1_struct
+DB7RL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	318;"	member	struct:ADC1_struct
+DB8RH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	319;"	member	struct:ADC1_struct
+DB8RL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	320;"	member	struct:ADC1_struct
+DB9RH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	321;"	member	struct:ADC1_struct
+DB9RL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	322;"	member	struct:ADC1_struct
+DDR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	272;"	member	struct:GPIO_struct
+DGR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2185;"	member	struct:__anon5
+DISABLE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	238;"	enumerator	enum:__anon3
+DM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2707;"	macro
+DM_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2594;"	macro
+DR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1339;"	member	struct:I2C_struct
+DR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1705;"	member	struct:SPI_struct
+DR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1773;"	member	struct:UART1_struct
+DR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1871;"	member	struct:UART2_struct
+DR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1978;"	member	struct:UART3_struct
+DR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2070;"	member	struct:UART4_struct
+DRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	328;"	member	struct:ADC1_struct
+DRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	399;"	member	struct:ADC2_struct
+DRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	329;"	member	struct:ADC1_struct
+DRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	400;"	member	struct:ADC2_struct
+DTR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	647;"	member	struct:TIM1_struct
+DUKR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1529;"	member	struct:FLASH_struct
+ECKR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	514;"	member	struct:CLK_struct
+EEPROM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	128;"	macro
+EEPROM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	134;"	macro
+EEPROM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	148;"	macro
+EGR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1070;"	member	struct:TIM4_struct
+EGR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1132;"	member	struct:TIM5_struct
+EGR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1270;"	member	struct:TIM6_struct
+EGR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	624;"	member	struct:TIM1_struct
+EGR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	837;"	member	struct:TIM2_struct
+EGR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	961;"	member	struct:TIM3_struct
+EIER	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2297;"	member	struct:__anon5::__anon6::__anon12
+ENABLE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	238;"	enumerator	enum:__anon3
+EOF	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h	27;"	macro
+ERROR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	241;"	enumerator	enum:__anon4
+ESR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2296;"	member	struct:__anon5::__anon6::__anon12
+ETR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	620;"	member	struct:TIM1_struct
+EXTI	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2624;"	macro
+EXTI_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2570;"	macro
+EXTI_CR1_PAIS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1501;"	macro
+EXTI_CR1_PBIS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1500;"	macro
+EXTI_CR1_PCIS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1499;"	macro
+EXTI_CR1_PDIS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1498;"	macro
+EXTI_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1487;"	macro
+EXTI_CR2_PEIS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1504;"	macro
+EXTI_CR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1488;"	macro
+EXTI_CR2_TLIS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1503;"	macro
+EXTI_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1481;"	typedef	typeref:struct:EXTI_struct
+EXTI_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1476;"	struct
+ErrorStatus	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	241;"	typedef	typeref:enum:__anon4
+F0R1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2233;"	member	struct:__anon5::__anon6::__anon9
+F0R2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2234;"	member	struct:__anon5::__anon6::__anon9
+F0R3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2235;"	member	struct:__anon5::__anon6::__anon9
+F0R4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2236;"	member	struct:__anon5::__anon6::__anon9
+F0R5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2237;"	member	struct:__anon5::__anon6::__anon9
+F0R6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2238;"	member	struct:__anon5::__anon6::__anon9
+F0R7	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2239;"	member	struct:__anon5::__anon6::__anon9
+F0R8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2240;"	member	struct:__anon5::__anon6::__anon9
+F1R1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2242;"	member	struct:__anon5::__anon6::__anon9
+F1R2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2243;"	member	struct:__anon5::__anon6::__anon9
+F1R3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2244;"	member	struct:__anon5::__anon6::__anon9
+F1R4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2245;"	member	struct:__anon5::__anon6::__anon9
+F1R5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2246;"	member	struct:__anon5::__anon6::__anon9
+F1R6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2247;"	member	struct:__anon5::__anon6::__anon9
+F1R7	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2248;"	member	struct:__anon5::__anon6::__anon9
+F1R8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2249;"	member	struct:__anon5::__anon6::__anon9
+F2R1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2254;"	member	struct:__anon5::__anon6::__anon10
+F2R2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2255;"	member	struct:__anon5::__anon6::__anon10
+F2R3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2256;"	member	struct:__anon5::__anon6::__anon10
+F2R4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2257;"	member	struct:__anon5::__anon6::__anon10
+F2R5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2258;"	member	struct:__anon5::__anon6::__anon10
+F2R6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2259;"	member	struct:__anon5::__anon6::__anon10
+F2R7	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2260;"	member	struct:__anon5::__anon6::__anon10
+F2R8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2261;"	member	struct:__anon5::__anon6::__anon10
+F3R1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2263;"	member	struct:__anon5::__anon6::__anon10
+F3R2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2264;"	member	struct:__anon5::__anon6::__anon10
+F3R3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2265;"	member	struct:__anon5::__anon6::__anon10
+F3R4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2266;"	member	struct:__anon5::__anon6::__anon10
+F3R5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2267;"	member	struct:__anon5::__anon6::__anon10
+F3R6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2268;"	member	struct:__anon5::__anon6::__anon10
+F3R7	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2269;"	member	struct:__anon5::__anon6::__anon10
+F3R8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2270;"	member	struct:__anon5::__anon6::__anon10
+F4R1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2275;"	member	struct:__anon5::__anon6::__anon11
+F4R2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2276;"	member	struct:__anon5::__anon6::__anon11
+F4R3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2277;"	member	struct:__anon5::__anon6::__anon11
+F4R4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2278;"	member	struct:__anon5::__anon6::__anon11
+F4R5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2279;"	member	struct:__anon5::__anon6::__anon11
+F4R6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2280;"	member	struct:__anon5::__anon6::__anon11
+F4R7	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2281;"	member	struct:__anon5::__anon6::__anon11
+F4R8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2282;"	member	struct:__anon5::__anon6::__anon11
+F5R1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2284;"	member	struct:__anon5::__anon6::__anon11
+F5R2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2285;"	member	struct:__anon5::__anon6::__anon11
+F5R3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2286;"	member	struct:__anon5::__anon6::__anon11
+F5R4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2287;"	member	struct:__anon5::__anon6::__anon11
+F5R5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2288;"	member	struct:__anon5::__anon6::__anon11
+F5R6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2289;"	member	struct:__anon5::__anon6::__anon11
+F5R7	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2290;"	member	struct:__anon5::__anon6::__anon11
+F5R8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2291;"	member	struct:__anon5::__anon6::__anon11
+FALSE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	234;"	enumerator	enum:__anon1
+FAR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	125;"	macro
+FAR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	131;"	macro
+FAR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	145;"	macro
+FCR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2305;"	member	struct:__anon5::__anon6::__anon12
+FCR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2306;"	member	struct:__anon5::__anon6::__anon12
+FCR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2307;"	member	struct:__anon5::__anon6::__anon12
+FLASH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2626;"	macro
+FLASH_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2569;"	macro
+FLASH_CR1_AHALT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1553;"	macro
+FLASH_CR1_FIX	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1555;"	macro
+FLASH_CR1_HALT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1552;"	macro
+FLASH_CR1_IE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1554;"	macro
+FLASH_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1537;"	macro
+FLASH_CR2_ERASE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1559;"	macro
+FLASH_CR2_FPRG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1560;"	macro
+FLASH_CR2_OPT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1557;"	macro
+FLASH_CR2_PRG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1561;"	macro
+FLASH_CR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1538;"	macro
+FLASH_CR2_WPRG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1558;"	macro
+FLASH_DUKR_DUK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1577;"	macro
+FLASH_DUKR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1542;"	macro
+FLASH_IAPSR_DUL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1570;"	macro
+FLASH_IAPSR_EOP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1571;"	macro
+FLASH_IAPSR_HVOFF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1569;"	macro
+FLASH_IAPSR_PUL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1572;"	macro
+FLASH_IAPSR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1540;"	macro
+FLASH_IAPSR_WR_PG_DIS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1573;"	macro
+FLASH_NCR2_NERASE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1565;"	macro
+FLASH_NCR2_NFPRG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1566;"	macro
+FLASH_NCR2_NOPT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1563;"	macro
+FLASH_NCR2_NPRG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1567;"	macro
+FLASH_NCR2_NWPRG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1564;"	macro
+FLASH_NCR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1539;"	macro
+FLASH_PUKR_PUK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1575;"	macro
+FLASH_PUKR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1541;"	macro
+FLASH_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1531;"	typedef	typeref:struct:FLASH_struct
+FLASH_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1517;"	struct
+FMR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2303;"	member	struct:__anon5::__anon6::__anon12
+FMR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2304;"	member	struct:__anon5::__anon6::__anon12
+FPR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1522;"	member	struct:FLASH_struct
+FR01	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2212;"	member	struct:__anon5::__anon6::__anon8
+FR02	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2213;"	member	struct:__anon5::__anon6::__anon8
+FR03	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2214;"	member	struct:__anon5::__anon6::__anon8
+FR04	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2215;"	member	struct:__anon5::__anon6::__anon8
+FR05	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2216;"	member	struct:__anon5::__anon6::__anon8
+FR06	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2217;"	member	struct:__anon5::__anon6::__anon8
+FR07	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2218;"	member	struct:__anon5::__anon6::__anon8
+FR08	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2219;"	member	struct:__anon5::__anon6::__anon8
+FR09	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2221;"	member	struct:__anon5::__anon6::__anon8
+FR10	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2222;"	member	struct:__anon5::__anon6::__anon8
+FR11	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2223;"	member	struct:__anon5::__anon6::__anon8
+FR12	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2224;"	member	struct:__anon5::__anon6::__anon8
+FR13	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2225;"	member	struct:__anon5::__anon6::__anon8
+FR14	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2226;"	member	struct:__anon5::__anon6::__anon8
+FR15	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2227;"	member	struct:__anon5::__anon6::__anon8
+FR16	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2228;"	member	struct:__anon5::__anon6::__anon8
+FREQR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1335;"	member	struct:I2C_struct
+Filter	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2229;"	member	union:__anon5::__anon6	typeref:struct:__anon5::__anon6::__anon8
+Filter01	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2250;"	member	union:__anon5::__anon6	typeref:struct:__anon5::__anon6::__anon9
+Filter23	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2271;"	member	union:__anon5::__anon6	typeref:struct:__anon5::__anon6::__anon10
+Filter45	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2292;"	member	union:__anon5::__anon6	typeref:struct:__anon5::__anon6::__anon11
+FlagStatus	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	236;"	typedef	typeref:enum:__anon2
+FunctionalState	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	238;"	typedef	typeref:enum:__anon3
+GB_STM8S103_DELAY_H_	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_delay.h	3;"	macro
+GB_STM8S103_SPI_H_	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_spi.h	2;"	macro
+GB_STM8S103_UART_H_	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_uart.h	3;"	macro
+GB_STMSTM8S103_GPIO_H_	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_gpio.h	2;"	macro
+GCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2527;"	member	struct:CFG_struct
+GPIOA	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2630;"	macro
+GPIOA_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2560;"	macro
+GPIOB	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2632;"	macro
+GPIOB_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2561;"	macro
+GPIOC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2634;"	macro
+GPIOC_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2562;"	macro
+GPIOD	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2636;"	macro
+GPIOD_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2563;"	macro
+GPIOE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2638;"	macro
+GPIOE_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2564;"	macro
+GPIOF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2640;"	macro
+GPIOF_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2565;"	macro
+GPIOG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2644;"	macro
+GPIOG_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2566;"	macro
+GPIOH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2649;"	macro
+GPIOH_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2567;"	macro
+GPIOI	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2650;"	macro
+GPIOI_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2568;"	macro
+GPIO_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	288;"	macro
+GPIO_CR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	289;"	macro
+GPIO_DDR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	287;"	macro
+GPIO_ODR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	286;"	macro
+GPIO_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	276;"	typedef	typeref:struct:GPIO_struct
+GPIO_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	268;"	struct
+GTR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1781;"	member	struct:UART1_struct
+GTR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1880;"	member	struct:UART2_struct
+GTR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2079;"	member	struct:UART4_struct
+HSE_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	112;"	macro
+HSE_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	114;"	macro
+HSITRIMR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	525;"	member	struct:CLK_struct
+HSI_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	121;"	macro
+HTRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	332;"	member	struct:ADC1_struct
+HTRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	333;"	member	struct:ADC1_struct
+I2C	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2659;"	macro
+I2C_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2578;"	macro
+I2C_CCRH_CCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1425;"	macro
+I2C_CCRH_DUTY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1424;"	macro
+I2C_CCRH_FS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1423;"	macro
+I2C_CCRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1366;"	macro
+I2C_CCRL_CCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1421;"	macro
+I2C_CCRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1365;"	macro
+I2C_CR1_ENGC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1378;"	macro
+I2C_CR1_NOSTRETCH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1377;"	macro
+I2C_CR1_PE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1379;"	macro
+I2C_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1355;"	macro
+I2C_CR2_ACK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1383;"	macro
+I2C_CR2_POS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1382;"	macro
+I2C_CR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1356;"	macro
+I2C_CR2_START	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1385;"	macro
+I2C_CR2_STOP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1384;"	macro
+I2C_CR2_SWRST	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1381;"	macro
+I2C_DR_DR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1396;"	macro
+I2C_DR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1360;"	macro
+I2C_FREQR_FREQ	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1387;"	macro
+I2C_FREQR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1357;"	macro
+I2C_ITR_ITBUFEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1417;"	macro
+I2C_ITR_ITERREN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1419;"	macro
+I2C_ITR_ITEVTEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1418;"	macro
+I2C_ITR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1364;"	macro
+I2C_OARH_ADD	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1394;"	macro
+I2C_OARH_ADDCONF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1393;"	macro
+I2C_OARH_ADDMODE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1392;"	macro
+I2C_OARH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1359;"	macro
+I2C_OARL_ADD	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1389;"	macro
+I2C_OARL_ADD0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1390;"	macro
+I2C_OARL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1358;"	macro
+I2C_SR1_ADD10	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1401;"	macro
+I2C_SR1_ADDR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1403;"	macro
+I2C_SR1_BTF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1402;"	macro
+I2C_SR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1361;"	macro
+I2C_SR1_RXNE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1399;"	macro
+I2C_SR1_SB	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1404;"	macro
+I2C_SR1_STOPF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1400;"	macro
+I2C_SR1_TXE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1398;"	macro
+I2C_SR2_AF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1408;"	macro
+I2C_SR2_ARLO	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1409;"	macro
+I2C_SR2_BERR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1410;"	macro
+I2C_SR2_OVR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1407;"	macro
+I2C_SR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1362;"	macro
+I2C_SR2_WUFH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1406;"	macro
+I2C_SR3_BUSY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1414;"	macro
+I2C_SR3_GENCALL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1412;"	macro
+I2C_SR3_MSL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1415;"	macro
+I2C_SR3_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1363;"	macro
+I2C_SR3_TRA	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1413;"	macro
+I2C_TRISER_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1367;"	macro
+I2C_TRISER_TRISE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1427;"	macro
+I2C_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1349;"	typedef	typeref:struct:I2C_struct
+I2C_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1331;"	struct
+IAPSR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1524;"	member	struct:FLASH_struct
+ICKR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	513;"	member	struct:CLK_struct
+ICR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1703;"	member	struct:SPI_struct
+IDR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	271;"	member	struct:GPIO_struct
+IER	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1068;"	member	struct:TIM4_struct
+IER	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1129;"	member	struct:TIM5_struct
+IER	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1268;"	member	struct:TIM6_struct
+IER	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2184;"	member	struct:__anon5
+IER	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	621;"	member	struct:TIM1_struct
+IER	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	834;"	member	struct:TIM2_struct
+IER	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	958;"	member	struct:TIM3_struct
+INTERRUPT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2773;"	macro
+INTERRUPT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2775;"	macro
+INTERRUPT_HANDLER	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2751;"	macro
+INTERRUPT_HANDLER	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2756;"	macro
+INTERRUPT_HANDLER	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2763;"	macro
+INTERRUPT_HANDLER_TRAP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2752;"	macro
+INTERRUPT_HANDLER_TRAP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2757;"	macro
+INTERRUPT_HANDLER_TRAP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2766;"	macro
+IN_RAM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	174;"	macro
+IN_RAM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	176;"	macro
+IN_RAM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	178;"	macro
+IN_RAM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	181;"	macro
+ISPR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1440;"	member	struct:ITC_struct
+ISPR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1441;"	member	struct:ITC_struct
+ISPR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1442;"	member	struct:ITC_struct
+ISPR4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1443;"	member	struct:ITC_struct
+ISPR5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1444;"	member	struct:ITC_struct
+ISPR6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1445;"	member	struct:ITC_struct
+ISPR7	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1446;"	member	struct:ITC_struct
+ISPR8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1447;"	member	struct:ITC_struct
+IS_FUNCTIONALSTATE_OK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	239;"	macro
+IS_STATE_VALUE_OK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2810;"	macro
+ITC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2703;"	macro
+ITC_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2593;"	macro
+ITC_SPRX_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1455;"	macro
+ITC_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1449;"	typedef	typeref:struct:ITC_struct
+ITC_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1438;"	struct
+ITR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1343;"	member	struct:I2C_struct
+ITStatus	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	236;"	typedef	typeref:enum:__anon2
+IWDG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2656;"	macro
+IWDG_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2574;"	macro
+IWDG_PR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1624;"	macro
+IWDG_RLR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1625;"	macro
+IWDG_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1618;"	typedef	typeref:struct:IWDG_struct
+IWDG_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1612;"	struct
+KR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1614;"	member	struct:IWDG_struct
+LSI_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	122;"	macro
+LTRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	334;"	member	struct:ADC1_struct
+LTRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	335;"	member	struct:ADC1_struct
+MCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2179;"	member	struct:__anon5
+MCSR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2192;"	member	struct:__anon5::__anon6::__anon7
+MDAR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2198;"	member	struct:__anon5::__anon6::__anon7
+MDAR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2319;"	member	struct:__anon5::__anon6::__anon13
+MDAR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2199;"	member	struct:__anon5::__anon6::__anon7
+MDAR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2320;"	member	struct:__anon5::__anon6::__anon13
+MDAR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2200;"	member	struct:__anon5::__anon6::__anon7
+MDAR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2321;"	member	struct:__anon5::__anon6::__anon13
+MDAR4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2201;"	member	struct:__anon5::__anon6::__anon7
+MDAR4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2322;"	member	struct:__anon5::__anon6::__anon13
+MDAR5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2202;"	member	struct:__anon5::__anon6::__anon7
+MDAR5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2323;"	member	struct:__anon5::__anon6::__anon13
+MDAR6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2203;"	member	struct:__anon5::__anon6::__anon7
+MDAR6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2324;"	member	struct:__anon5::__anon6::__anon13
+MDAR7	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2204;"	member	struct:__anon5::__anon6::__anon7
+MDAR7	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2325;"	member	struct:__anon5::__anon6::__anon13
+MDAR8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2205;"	member	struct:__anon5::__anon6::__anon7
+MDAR8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2326;"	member	struct:__anon5::__anon6::__anon13
+MDLCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2193;"	member	struct:__anon5::__anon6::__anon7
+MDLCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2314;"	member	struct:__anon5::__anon6::__anon13
+MEMCPY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	139;"	macro
+MEMCPY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	142;"	macro
+MFMI	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2313;"	member	struct:__anon5::__anon6::__anon13
+MIDR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2194;"	member	struct:__anon5::__anon6::__anon7
+MIDR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2315;"	member	struct:__anon5::__anon6::__anon13
+MIDR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2195;"	member	struct:__anon5::__anon6::__anon7
+MIDR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2316;"	member	struct:__anon5::__anon6::__anon13
+MIDR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2196;"	member	struct:__anon5::__anon6::__anon7
+MIDR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2317;"	member	struct:__anon5::__anon6::__anon13
+MIDR4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2197;"	member	struct:__anon5::__anon6::__anon7
+MIDR4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2318;"	member	struct:__anon5::__anon6::__anon13
+MSR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2180;"	member	struct:__anon5
+MTSRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2207;"	member	struct:__anon5::__anon6::__anon7
+MTSRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2328;"	member	struct:__anon5::__anon6::__anon13
+MTSRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2206;"	member	struct:__anon5::__anon6::__anon7
+MTSRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2327;"	member	struct:__anon5::__anon6::__anon13
+MemoryAddressCast	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	160;"	macro
+MemoryAddressCast	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	164;"	macro
+MskBit	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2799;"	macro
+NCR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1521;"	member	struct:FLASH_struct
+NEAR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	126;"	macro
+NEAR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	132;"	macro
+NEAR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	146;"	macro
+NFPR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1523;"	member	struct:FLASH_struct
+NOPT1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1591;"	member	struct:OPT_struct
+NOPT2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1593;"	member	struct:OPT_struct
+NOPT3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1595;"	member	struct:OPT_struct
+NOPT4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1597;"	member	struct:OPT_struct
+NOPT5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1599;"	member	struct:OPT_struct
+NOPT7	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1603;"	member	struct:OPT_struct
+NULL	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h	30;"	macro
+NonHandledInterrupt	stm8_interrupt_vector.c	12;"	function	signature:(void)
+OARH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1337;"	member	struct:I2C_struct
+OARL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1336;"	member	struct:I2C_struct
+ODR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	270;"	member	struct:GPIO_struct
+OISR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	648;"	member	struct:TIM1_struct
+OPT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2628;"	macro
+OPT0	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1589;"	member	struct:OPT_struct
+OPT1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1590;"	member	struct:OPT_struct
+OPT2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1592;"	member	struct:OPT_struct
+OPT3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1594;"	member	struct:OPT_struct
+OPT4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1596;"	member	struct:OPT_struct
+OPT5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1598;"	member	struct:OPT_struct
+OPT7	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1602;"	member	struct:OPT_struct
+OPT_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2559;"	macro
+OPT_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1605;"	typedef	typeref:struct:OPT_struct
+OPT_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1587;"	struct
+PCKENR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	520;"	member	struct:CLK_struct
+PCKENR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	523;"	member	struct:CLK_struct
+PR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1615;"	member	struct:IWDG_struct
+PSCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1072;"	member	struct:TIM4_struct
+PSCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1140;"	member	struct:TIM5_struct
+PSCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1272;"	member	struct:TIM6_struct
+PSCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1782;"	member	struct:UART1_struct
+PSCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1881;"	member	struct:UART2_struct
+PSCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2080;"	member	struct:UART4_struct
+PSCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	845;"	member	struct:TIM2_struct
+PSCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	967;"	member	struct:TIM3_struct
+PSCRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	633;"	member	struct:TIM1_struct
+PSCRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	634;"	member	struct:TIM1_struct
+PSR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2186;"	member	struct:__anon5
+PUKR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1527;"	member	struct:FLASH_struct
+Page	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2330;"	member	struct:__anon5	typeref:union:__anon5::__anon6
+PointerAttr	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	159;"	macro
+PointerAttr	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	163;"	macro
+RCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	637;"	member	struct:TIM1_struct
+RECR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2299;"	member	struct:__anon5::__anon6::__anon12
+RESERVED	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1985;"	member	struct:UART3_struct
+RESERVED	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	323;"	member	struct:ADC1_struct
+RESERVED	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	398;"	member	struct:ADC2_struct
+RESERVED	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	515;"	member	struct:CLK_struct
+RESERVED1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1065;"	member	struct:TIM4_struct
+RESERVED1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1338;"	member	struct:I2C_struct
+RESERVED1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1525;"	member	struct:FLASH_struct
+RESERVED1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1600;"	member	struct:OPT_struct
+RESERVED1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	524;"	member	struct:CLK_struct
+RESERVED1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	831;"	member	struct:TIM2_struct
+RESERVED2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1066;"	member	struct:TIM4_struct
+RESERVED2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1347;"	member	struct:I2C_struct
+RESERVED2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1526;"	member	struct:FLASH_struct
+RESERVED2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1601;"	member	struct:OPT_struct
+RESERVED2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	832;"	member	struct:TIM2_struct
+RESERVED3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1528;"	member	struct:FLASH_struct
+RESET	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	236;"	enumerator	enum:__anon2
+RFR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2183;"	member	struct:__anon5
+RLR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1616;"	member	struct:IWDG_struct
+RST	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2653;"	macro
+RST_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2571;"	macro
+RST_SR_EMCF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1684;"	macro
+RST_SR_ILLOPF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1686;"	macro
+RST_SR_IWDGF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1687;"	macro
+RST_SR_SWIMF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1685;"	macro
+RST_SR_WWDGF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1688;"	macro
+RST_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1678;"	typedef	typeref:struct:RST_struct
+RST_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1674;"	struct
+RXCRCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1707;"	member	struct:SPI_struct
+Reserved1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2302;"	member	struct:__anon5::__anon6::__anon12
+Reserved2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2308;"	member	struct:__anon5::__anon6::__anon12
+RxFIFO	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2329;"	member	union:__anon5::__anon6	typeref:struct:__anon5::__anon6::__anon13
+S16_MAX	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	247;"	macro
+S16_MIN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	248;"	macro
+S32_MAX	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	250;"	macro
+S32_MIN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	251;"	macro
+S8_MAX	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	244;"	macro
+S8_MIN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	245;"	macro
+SET	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	236;"	enumerator	enum:__anon2
+SMCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1128;"	member	struct:TIM5_struct
+SMCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1267;"	member	struct:TIM6_struct
+SMCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	619;"	member	struct:TIM1_struct
+SPI	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2658;"	macro
+SPI_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2577;"	macro
+SPI_CR1_BR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1735;"	macro
+SPI_CR1_CPHA	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1738;"	macro
+SPI_CR1_CPOL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1737;"	macro
+SPI_CR1_LSBFIRST	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1733;"	macro
+SPI_CR1_MSTR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1736;"	macro
+SPI_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1716;"	macro
+SPI_CR1_SPE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1734;"	macro
+SPI_CR2_BDM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1740;"	macro
+SPI_CR2_BDOE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1741;"	macro
+SPI_CR2_CRCEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1742;"	macro
+SPI_CR2_CRCNEXT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1743;"	macro
+SPI_CR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1717;"	macro
+SPI_CR2_RXONLY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1744;"	macro
+SPI_CR2_SSI	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1746;"	macro
+SPI_CR2_SSM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1745;"	macro
+SPI_CRCPR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1721;"	macro
+SPI_DR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1720;"	macro
+SPI_ICR_ERRIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1750;"	macro
+SPI_ICR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1718;"	macro
+SPI_ICR_RXEI	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1749;"	macro
+SPI_ICR_TXEI	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1748;"	macro
+SPI_ICR_WKIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1751;"	macro
+SPI_RXCRCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1722;"	macro
+SPI_SR_BSY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1753;"	macro
+SPI_SR_CRCERR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1756;"	macro
+SPI_SR_MODF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1755;"	macro
+SPI_SR_OVR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1754;"	macro
+SPI_SR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1719;"	macro
+SPI_SR_RXNE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1759;"	macro
+SPI_SR_TXE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1758;"	macro
+SPI_SR_WKUP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1757;"	macro
+SPI_TXCRCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1723;"	macro
+SPI_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1710;"	typedef	typeref:struct:SPI_struct
+SPI_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1699;"	struct
+SR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1676;"	member	struct:RST_struct
+SR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1704;"	member	struct:SPI_struct
+SR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1772;"	member	struct:UART1_struct
+SR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1870;"	member	struct:UART2_struct
+SR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1977;"	member	struct:UART3_struct
+SR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2069;"	member	struct:UART4_struct
+SR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1069;"	member	struct:TIM4_struct
+SR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1130;"	member	struct:TIM5_struct
+SR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1269;"	member	struct:TIM6_struct
+SR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1340;"	member	struct:I2C_struct
+SR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	622;"	member	struct:TIM1_struct
+SR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	835;"	member	struct:TIM2_struct
+SR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	959;"	member	struct:TIM3_struct
+SR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1131;"	member	struct:TIM5_struct
+SR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1341;"	member	struct:I2C_struct
+SR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	623;"	member	struct:TIM1_struct
+SR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	836;"	member	struct:TIM2_struct
+SR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	960;"	member	struct:TIM3_struct
+SR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1342;"	member	struct:I2C_struct
+STM8S103	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	48;"	macro
+STRINGVECTOR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2761;"	macro
+SUCCESS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	241;"	enumerator	enum:__anon4
+SWCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	518;"	member	struct:CLK_struct
+SWIMCCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	526;"	member	struct:CLK_struct
+SWR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	517;"	member	struct:CLK_struct
+SetBit	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2792;"	macro
+TBR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	447;"	member	struct:AWU_struct
+TDRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	330;"	member	struct:ADC1_struct
+TDRH	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	401;"	member	struct:ADC2_struct
+TDRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	331;"	member	struct:ADC1_struct
+TDRL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	402;"	member	struct:ADC2_struct
+TECR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2298;"	member	struct:__anon5::__anon6::__anon12
+TIM1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2679;"	macro
+TIM1_ARRH_ARR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	784;"	macro
+TIM1_ARRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	674;"	macro
+TIM1_ARRL_ARR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	785;"	macro
+TIM1_ARRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	675;"	macro
+TIM1_BKR_AOE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	802;"	macro
+TIM1_BKR_BKE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	804;"	macro
+TIM1_BKR_BKP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	803;"	macro
+TIM1_BKR_LOCK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	807;"	macro
+TIM1_BKR_MOE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	801;"	macro
+TIM1_BKR_OSSI	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	806;"	macro
+TIM1_BKR_OSSR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	805;"	macro
+TIM1_BKR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	685;"	macro
+TIM1_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2583;"	macro
+TIM1_CCER1_CC1E	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	767;"	macro
+TIM1_CCER1_CC1NE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	765;"	macro
+TIM1_CCER1_CC1NP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	764;"	macro
+TIM1_CCER1_CC1P	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	766;"	macro
+TIM1_CCER1_CC2E	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	763;"	macro
+TIM1_CCER1_CC2NE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	761;"	macro
+TIM1_CCER1_CC2NP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	760;"	macro
+TIM1_CCER1_CC2P	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	762;"	macro
+TIM1_CCER1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	668;"	macro
+TIM1_CCER2_CC3E	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	774;"	macro
+TIM1_CCER2_CC3NE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	772;"	macro
+TIM1_CCER2_CC3NP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	771;"	macro
+TIM1_CCER2_CC3P	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	773;"	macro
+TIM1_CCER2_CC4E	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	770;"	macro
+TIM1_CCER2_CC4P	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	769;"	macro
+TIM1_CCER2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	669;"	macro
+TIM1_CCMR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	664;"	macro
+TIM1_CCMR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	665;"	macro
+TIM1_CCMR3_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	666;"	macro
+TIM1_CCMR4_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	667;"	macro
+TIM1_CCMR_CCxS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	756;"	macro
+TIM1_CCMR_ICxF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	752;"	macro
+TIM1_CCMR_ICxPSC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	751;"	macro
+TIM1_CCMR_OCM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	753;"	macro
+TIM1_CCMR_OCxFE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	755;"	macro
+TIM1_CCMR_OCxPE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	754;"	macro
+TIM1_CCR1H_CCR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	789;"	macro
+TIM1_CCR1H_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	677;"	macro
+TIM1_CCR1L_CCR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	790;"	macro
+TIM1_CCR1L_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	678;"	macro
+TIM1_CCR2H_CCR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	792;"	macro
+TIM1_CCR2H_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	679;"	macro
+TIM1_CCR2L_CCR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	793;"	macro
+TIM1_CCR2L_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	680;"	macro
+TIM1_CCR3H_CCR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	795;"	macro
+TIM1_CCR3H_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	681;"	macro
+TIM1_CCR3L_CCR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	796;"	macro
+TIM1_CCR3L_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	682;"	macro
+TIM1_CCR4H_CCR4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	798;"	macro
+TIM1_CCR4H_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	683;"	macro
+TIM1_CCR4L_CCR4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	799;"	macro
+TIM1_CCR4L_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	684;"	macro
+TIM1_CNTRH_CNT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	776;"	macro
+TIM1_CNTRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	670;"	macro
+TIM1_CNTRL_CNT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	778;"	macro
+TIM1_CNTRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	671;"	macro
+TIM1_CR1_ARPE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	697;"	macro
+TIM1_CR1_CEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	703;"	macro
+TIM1_CR1_CMS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	698;"	macro
+TIM1_CR1_DIR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	699;"	macro
+TIM1_CR1_OPM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	700;"	macro
+TIM1_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	656;"	macro
+TIM1_CR1_UDIS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	702;"	macro
+TIM1_CR1_URS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	701;"	macro
+TIM1_CR2_CCPC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	708;"	macro
+TIM1_CR2_COMS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	707;"	macro
+TIM1_CR2_MMS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	706;"	macro
+TIM1_CR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	657;"	macro
+TIM1_CR2_TI1S	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	705;"	macro
+TIM1_DTR_DTG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	809;"	macro
+TIM1_DTR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	686;"	macro
+TIM1_EGR_BG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	742;"	macro
+TIM1_EGR_CC1G	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	748;"	macro
+TIM1_EGR_CC2G	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	747;"	macro
+TIM1_EGR_CC3G	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	746;"	macro
+TIM1_EGR_CC4G	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	745;"	macro
+TIM1_EGR_COMG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	744;"	macro
+TIM1_EGR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	663;"	macro
+TIM1_EGR_TG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	743;"	macro
+TIM1_EGR_UG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	749;"	macro
+TIM1_ETR_ECE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	715;"	macro
+TIM1_ETR_ETF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	717;"	macro
+TIM1_ETR_ETP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	714;"	macro
+TIM1_ETR_ETPS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	716;"	macro
+TIM1_ETR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	659;"	macro
+TIM1_IER_BIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	719;"	macro
+TIM1_IER_CC1IE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	725;"	macro
+TIM1_IER_CC2IE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	724;"	macro
+TIM1_IER_CC3IE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	723;"	macro
+TIM1_IER_CC4IE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	722;"	macro
+TIM1_IER_COMIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	721;"	macro
+TIM1_IER_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	660;"	macro
+TIM1_IER_TIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	720;"	macro
+TIM1_IER_UIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	726;"	macro
+TIM1_OISR_OIS1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	817;"	macro
+TIM1_OISR_OIS1N	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	816;"	macro
+TIM1_OISR_OIS2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	815;"	macro
+TIM1_OISR_OIS2N	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	814;"	macro
+TIM1_OISR_OIS3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	813;"	macro
+TIM1_OISR_OIS3N	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	812;"	macro
+TIM1_OISR_OIS4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	811;"	macro
+TIM1_OISR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	687;"	macro
+TIM1_PSCH_PSC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	780;"	macro
+TIM1_PSCL_PSC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	782;"	macro
+TIM1_PSCRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	672;"	macro
+TIM1_PSCRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	673;"	macro
+TIM1_RCR_REP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	787;"	macro
+TIM1_RCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	676;"	macro
+TIM1_SMCR_MSM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	710;"	macro
+TIM1_SMCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	658;"	macro
+TIM1_SMCR_SMS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	712;"	macro
+TIM1_SMCR_TS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	711;"	macro
+TIM1_SR1_BIF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	728;"	macro
+TIM1_SR1_CC1IF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	734;"	macro
+TIM1_SR1_CC2IF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	733;"	macro
+TIM1_SR1_CC3IF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	732;"	macro
+TIM1_SR1_CC4IF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	731;"	macro
+TIM1_SR1_COMIF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	730;"	macro
+TIM1_SR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	661;"	macro
+TIM1_SR1_TIF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	729;"	macro
+TIM1_SR1_UIF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	735;"	macro
+TIM1_SR2_CC1OF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	740;"	macro
+TIM1_SR2_CC2OF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	739;"	macro
+TIM1_SR2_CC3OF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	738;"	macro
+TIM1_SR2_CC4OF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	737;"	macro
+TIM1_SR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	662;"	macro
+TIM1_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	650;"	typedef	typeref:struct:TIM1_struct
+TIM1_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	615;"	struct
+TIM2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2684;"	macro
+TIM2_ARRH_ARR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	935;"	macro
+TIM2_ARRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	874;"	macro
+TIM2_ARRL_ARR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	936;"	macro
+TIM2_ARRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	875;"	macro
+TIM2_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2584;"	macro
+TIM2_CCER1_CC1E	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	925;"	macro
+TIM2_CCER1_CC1P	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	924;"	macro
+TIM2_CCER1_CC2E	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	923;"	macro
+TIM2_CCER1_CC2P	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	922;"	macro
+TIM2_CCER1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	869;"	macro
+TIM2_CCER2_CC3E	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	928;"	macro
+TIM2_CCER2_CC3P	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	927;"	macro
+TIM2_CCER2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	870;"	macro
+TIM2_CCMR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	866;"	macro
+TIM2_CCMR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	867;"	macro
+TIM2_CCMR3_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	868;"	macro
+TIM2_CCMR_CCxS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	920;"	macro
+TIM2_CCMR_ICxF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	917;"	macro
+TIM2_CCMR_ICxPSC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	916;"	macro
+TIM2_CCMR_OCM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	918;"	macro
+TIM2_CCMR_OCxPE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	919;"	macro
+TIM2_CCR1H_CCR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	938;"	macro
+TIM2_CCR1H_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	876;"	macro
+TIM2_CCR1L_CCR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	939;"	macro
+TIM2_CCR1L_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	877;"	macro
+TIM2_CCR2H_CCR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	941;"	macro
+TIM2_CCR2H_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	878;"	macro
+TIM2_CCR2L_CCR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	942;"	macro
+TIM2_CCR2L_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	879;"	macro
+TIM2_CCR3H_CCR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	944;"	macro
+TIM2_CCR3H_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	880;"	macro
+TIM2_CCR3L_CCR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	945;"	macro
+TIM2_CCR3L_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	881;"	macro
+TIM2_CNTR	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_delay.h	5;"	macro
+TIM2_CNTRH_CNT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	930;"	macro
+TIM2_CNTRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	871;"	macro
+TIM2_CNTRL_CNT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	931;"	macro
+TIM2_CNTRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	872;"	macro
+TIM2_CR1_ARPE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	891;"	macro
+TIM2_CR1_CEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	895;"	macro
+TIM2_CR1_OPM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	892;"	macro
+TIM2_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	861;"	macro
+TIM2_CR1_UDIS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	894;"	macro
+TIM2_CR1_URS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	893;"	macro
+TIM2_EGR_CC1G	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	913;"	macro
+TIM2_EGR_CC2G	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	912;"	macro
+TIM2_EGR_CC3G	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	911;"	macro
+TIM2_EGR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	865;"	macro
+TIM2_EGR_UG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	914;"	macro
+TIM2_IER_CC1IE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	899;"	macro
+TIM2_IER_CC2IE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	898;"	macro
+TIM2_IER_CC3IE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	897;"	macro
+TIM2_IER_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	862;"	macro
+TIM2_IER_UIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	900;"	macro
+TIM2_PSCR_PSC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	933;"	macro
+TIM2_PSCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	873;"	macro
+TIM2_SR1_CC1IF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	904;"	macro
+TIM2_SR1_CC2IF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	903;"	macro
+TIM2_SR1_CC3IF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	902;"	macro
+TIM2_SR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	863;"	macro
+TIM2_SR1_UIF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	905;"	macro
+TIM2_SR2_CC1OF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	909;"	macro
+TIM2_SR2_CC2OF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	908;"	macro
+TIM2_SR2_CC3OF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	907;"	macro
+TIM2_SR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	864;"	macro
+TIM2_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	855;"	typedef	typeref:struct:TIM2_struct
+TIM2_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	827;"	struct
+TIM3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2689;"	macro
+TIM3_ARRH_ARR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1044;"	macro
+TIM3_ARRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	992;"	macro
+TIM3_ARRL_ARR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1045;"	macro
+TIM3_ARRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	993;"	macro
+TIM3_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2585;"	macro
+TIM3_CCER1_CC1E	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1037;"	macro
+TIM3_CCER1_CC1P	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1036;"	macro
+TIM3_CCER1_CC2E	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1035;"	macro
+TIM3_CCER1_CC2P	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1034;"	macro
+TIM3_CCER1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	988;"	macro
+TIM3_CCMR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	986;"	macro
+TIM3_CCMR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	987;"	macro
+TIM3_CCMR_CCxS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1032;"	macro
+TIM3_CCMR_ICxF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1029;"	macro
+TIM3_CCMR_ICxPSC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1028;"	macro
+TIM3_CCMR_OCM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1030;"	macro
+TIM3_CCMR_OCxPE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1031;"	macro
+TIM3_CCR1H_CCR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1047;"	macro
+TIM3_CCR1H_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	994;"	macro
+TIM3_CCR1L_CCR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1048;"	macro
+TIM3_CCR1L_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	995;"	macro
+TIM3_CCR2H_CCR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1050;"	macro
+TIM3_CCR2H_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	996;"	macro
+TIM3_CCR2L_CCR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1051;"	macro
+TIM3_CCR2L_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	997;"	macro
+TIM3_CNTRH_CNT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1039;"	macro
+TIM3_CNTRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	989;"	macro
+TIM3_CNTRL_CNT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1040;"	macro
+TIM3_CNTRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	990;"	macro
+TIM3_CR1_ARPE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1007;"	macro
+TIM3_CR1_CEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1011;"	macro
+TIM3_CR1_OPM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1008;"	macro
+TIM3_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	981;"	macro
+TIM3_CR1_UDIS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1010;"	macro
+TIM3_CR1_URS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1009;"	macro
+TIM3_EGR_CC1G	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1025;"	macro
+TIM3_EGR_CC2G	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1024;"	macro
+TIM3_EGR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	985;"	macro
+TIM3_EGR_UG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1026;"	macro
+TIM3_IER_CC1IE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1014;"	macro
+TIM3_IER_CC2IE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1013;"	macro
+TIM3_IER_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	982;"	macro
+TIM3_IER_UIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1015;"	macro
+TIM3_PSCR_PSC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1042;"	macro
+TIM3_PSCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	991;"	macro
+TIM3_SR1_CC1IF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1018;"	macro
+TIM3_SR1_CC2IF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1017;"	macro
+TIM3_SR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	983;"	macro
+TIM3_SR1_UIF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1019;"	macro
+TIM3_SR2_CC1OF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1022;"	macro
+TIM3_SR2_CC2OF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1021;"	macro
+TIM3_SR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	984;"	macro
+TIM3_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	975;"	typedef	typeref:struct:TIM3_struct
+TIM3_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	955;"	struct
+TIM4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2695;"	macro
+TIM4_ARR_ARR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1113;"	macro
+TIM4_ARR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1087;"	macro
+TIM4_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2586;"	macro
+TIM4_CNTR_CNT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1109;"	macro
+TIM4_CNTR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1085;"	macro
+TIM4_CR1_ARPE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1097;"	macro
+TIM4_CR1_CEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1101;"	macro
+TIM4_CR1_OPM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1098;"	macro
+TIM4_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1081;"	macro
+TIM4_CR1_UDIS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1100;"	macro
+TIM4_CR1_URS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1099;"	macro
+TIM4_EGR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1084;"	macro
+TIM4_EGR_UG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1107;"	macro
+TIM4_IER_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1082;"	macro
+TIM4_IER_UIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1103;"	macro
+TIM4_PSCR_PSC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1111;"	macro
+TIM4_PSCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1086;"	macro
+TIM4_SR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1083;"	macro
+TIM4_SR1_UIF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1105;"	macro
+TIM4_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1075;"	typedef	typeref:struct:TIM4_struct
+TIM4_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1061;"	struct
+TIM5	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2699;"	macro
+TIM5_ARRH_ARR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1241;"	macro
+TIM5_ARRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1170;"	macro
+TIM5_ARRL_ARR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1242;"	macro
+TIM5_ARRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1171;"	macro
+TIM5_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2587;"	macro
+TIM5_CCER1_CC1E	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1231;"	macro
+TIM5_CCER1_CC1P	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1230;"	macro
+TIM5_CCER1_CC2E	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1229;"	macro
+TIM5_CCER1_CC2P	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1228;"	macro
+TIM5_CCER1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1165;"	macro
+TIM5_CCER2_CC3E	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1234;"	macro
+TIM5_CCER2_CC3P	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1233;"	macro
+TIM5_CCER2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1166;"	macro
+TIM5_CCMR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1162;"	macro
+TIM5_CCMR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1163;"	macro
+TIM5_CCMR3_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1164;"	macro
+TIM5_CCMR_CCxS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1226;"	macro
+TIM5_CCMR_ICxF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1223;"	macro
+TIM5_CCMR_ICxPSC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1222;"	macro
+TIM5_CCMR_OCM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1224;"	macro
+TIM5_CCMR_OCxPE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1225;"	macro
+TIM5_CCMR_TIxDirect_Set	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1253;"	macro
+TIM5_CCR1H_CCR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1244;"	macro
+TIM5_CCR1H_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1172;"	macro
+TIM5_CCR1L_CCR1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1245;"	macro
+TIM5_CCR1L_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1173;"	macro
+TIM5_CCR2H_CCR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1247;"	macro
+TIM5_CCR2H_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1174;"	macro
+TIM5_CCR2L_CCR2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1248;"	macro
+TIM5_CCR2L_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1175;"	macro
+TIM5_CCR3H_CCR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1250;"	macro
+TIM5_CCR3H_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1176;"	macro
+TIM5_CCR3L_CCR3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1251;"	macro
+TIM5_CCR3L_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1177;"	macro
+TIM5_CNTRH_CNT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1236;"	macro
+TIM5_CNTRH_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1167;"	macro
+TIM5_CNTRL_CNT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1237;"	macro
+TIM5_CNTRL_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1168;"	macro
+TIM5_CR1_ARPE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1187;"	macro
+TIM5_CR1_CEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1191;"	macro
+TIM5_CR1_OPM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1188;"	macro
+TIM5_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1155;"	macro
+TIM5_CR1_UDIS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1190;"	macro
+TIM5_CR1_URS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1189;"	macro
+TIM5_CR2_MMS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1194;"	macro
+TIM5_CR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1156;"	macro
+TIM5_CR2_TI1S	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1193;"	macro
+TIM5_EGR_CC1G	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1219;"	macro
+TIM5_EGR_CC2G	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1218;"	macro
+TIM5_EGR_CC3G	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1217;"	macro
+TIM5_EGR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1161;"	macro
+TIM5_EGR_TG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1216;"	macro
+TIM5_EGR_UG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1220;"	macro
+TIM5_IER_CC1IE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1203;"	macro
+TIM5_IER_CC2IE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1202;"	macro
+TIM5_IER_CC3IE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1201;"	macro
+TIM5_IER_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1158;"	macro
+TIM5_IER_TIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1200;"	macro
+TIM5_IER_UIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1204;"	macro
+TIM5_PSCR_PSC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1239;"	macro
+TIM5_PSCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1169;"	macro
+TIM5_SMCR_MSM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1196;"	macro
+TIM5_SMCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1157;"	macro
+TIM5_SMCR_SMS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1198;"	macro
+TIM5_SMCR_TS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1197;"	macro
+TIM5_SR1_CC1IF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1209;"	macro
+TIM5_SR1_CC2IF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1208;"	macro
+TIM5_SR1_CC3IF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1207;"	macro
+TIM5_SR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1159;"	macro
+TIM5_SR1_TIF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1206;"	macro
+TIM5_SR1_UIF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1210;"	macro
+TIM5_SR2_CC1OF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1214;"	macro
+TIM5_SR2_CC2OF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1213;"	macro
+TIM5_SR2_CC3OF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1212;"	macro
+TIM5_SR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1160;"	macro
+TIM5_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1149;"	typedef	typeref:struct:TIM5_struct
+TIM5_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1124;"	struct
+TIM6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2700;"	macro
+TIM6_ARR_ARR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1322;"	macro
+TIM6_ARR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1287;"	macro
+TIM6_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2588;"	macro
+TIM6_CNTR_CNT	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1318;"	macro
+TIM6_CNTR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1285;"	macro
+TIM6_CR1_ARPE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1297;"	macro
+TIM6_CR1_CEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1301;"	macro
+TIM6_CR1_OPM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1298;"	macro
+TIM6_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1279;"	macro
+TIM6_CR1_UDIS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1300;"	macro
+TIM6_CR1_URS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1299;"	macro
+TIM6_CR2_MMS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1303;"	macro
+TIM6_CR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1280;"	macro
+TIM6_EGR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1284;"	macro
+TIM6_EGR_TG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1315;"	macro
+TIM6_EGR_UG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1316;"	macro
+TIM6_IER_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1282;"	macro
+TIM6_IER_TIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1309;"	macro
+TIM6_IER_UIE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1310;"	macro
+TIM6_PSCR_PSC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1320;"	macro
+TIM6_PSCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1286;"	macro
+TIM6_SMCR_MSM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1305;"	macro
+TIM6_SMCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1281;"	macro
+TIM6_SMCR_SMS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1307;"	macro
+TIM6_SMCR_TS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1306;"	macro
+TIM6_SR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1283;"	macro
+TIM6_SR1_TIF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1312;"	macro
+TIM6_SR1_UIF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1313;"	macro
+TIM6_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1275;"	typedef	typeref:struct:TIM6_struct
+TIM6_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1263;"	struct
+TINY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	127;"	macro
+TINY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	133;"	macro
+TINY	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	147;"	macro
+TPR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2182;"	member	struct:__anon5
+TRISER	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1346;"	member	struct:I2C_struct
+TRUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	234;"	enumerator	enum:__anon1
+TSR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2181;"	member	struct:__anon5
+TXCRCR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1708;"	member	struct:SPI_struct
+TxMailbox	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2208;"	member	union:__anon5::__anon6	typeref:struct:__anon5::__anon6::__anon7
+U16_MAX	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	246;"	macro
+U32_MAX	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	249;"	macro
+U8_MAX	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	243;"	macro
+UART1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2663;"	macro
+UART1_BRR1_DIVM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1818;"	macro
+UART1_BRR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1791;"	macro
+UART1_BRR2_DIVF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1821;"	macro
+UART1_BRR2_DIVM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1820;"	macro
+UART1_BRR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1792;"	macro
+UART1_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2579;"	macro
+UART1_CR1_M	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1826;"	macro
+UART1_CR1_PCEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1828;"	macro
+UART1_CR1_PIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1830;"	macro
+UART1_CR1_PS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1829;"	macro
+UART1_CR1_R8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1823;"	macro
+UART1_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1793;"	macro
+UART1_CR1_T8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1824;"	macro
+UART1_CR1_UARTD	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1825;"	macro
+UART1_CR1_WAKE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1827;"	macro
+UART1_CR2_ILIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1835;"	macro
+UART1_CR2_REN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1837;"	macro
+UART1_CR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1794;"	macro
+UART1_CR2_RIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1834;"	macro
+UART1_CR2_RWU	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1838;"	macro
+UART1_CR2_SBK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1839;"	macro
+UART1_CR2_TCIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1833;"	macro
+UART1_CR2_TEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1836;"	macro
+UART1_CR2_TIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1832;"	macro
+UART1_CR3_CKEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1843;"	macro
+UART1_CR3_CPHA	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1845;"	macro
+UART1_CR3_CPOL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1844;"	macro
+UART1_CR3_LBCL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1846;"	macro
+UART1_CR3_LINEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1841;"	macro
+UART1_CR3_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1795;"	macro
+UART1_CR3_STOP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1842;"	macro
+UART1_CR4_ADD	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1851;"	macro
+UART1_CR4_LBDF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1850;"	macro
+UART1_CR4_LBDIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1848;"	macro
+UART1_CR4_LBDL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1849;"	macro
+UART1_CR4_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1796;"	macro
+UART1_CR5_HDSEL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1855;"	macro
+UART1_CR5_IREN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1857;"	macro
+UART1_CR5_IRLP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1856;"	macro
+UART1_CR5_NACK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1854;"	macro
+UART1_CR5_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1797;"	macro
+UART1_CR5_SCEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1853;"	macro
+UART1_GTR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1798;"	macro
+UART1_PSCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1799;"	macro
+UART1_SR_FE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1815;"	macro
+UART1_SR_IDLE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1812;"	macro
+UART1_SR_NF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1814;"	macro
+UART1_SR_OR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1813;"	macro
+UART1_SR_PE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1816;"	macro
+UART1_SR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1790;"	macro
+UART1_SR_RXNE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1811;"	macro
+UART1_SR_TC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1810;"	macro
+UART1_SR_TXE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1809;"	macro
+UART1_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1784;"	typedef	typeref:struct:UART1_struct
+UART1_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1770;"	struct
+UART2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2667;"	macro
+UART2_BRR1_DIVM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1918;"	macro
+UART2_BRR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1890;"	macro
+UART2_BRR2_DIVF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1921;"	macro
+UART2_BRR2_DIVM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1920;"	macro
+UART2_BRR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1891;"	macro
+UART2_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2580;"	macro
+UART2_CR1_M	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1926;"	macro
+UART2_CR1_PCEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1928;"	macro
+UART2_CR1_PIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1930;"	macro
+UART2_CR1_PS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1929;"	macro
+UART2_CR1_R8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1923;"	macro
+UART2_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1892;"	macro
+UART2_CR1_T8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1924;"	macro
+UART2_CR1_UARTD	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1925;"	macro
+UART2_CR1_WAKE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1927;"	macro
+UART2_CR2_ILIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1935;"	macro
+UART2_CR2_REN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1937;"	macro
+UART2_CR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1893;"	macro
+UART2_CR2_RIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1934;"	macro
+UART2_CR2_RWU	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1938;"	macro
+UART2_CR2_SBK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1939;"	macro
+UART2_CR2_TCIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1933;"	macro
+UART2_CR2_TEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1936;"	macro
+UART2_CR2_TIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1932;"	macro
+UART2_CR3_CKEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1943;"	macro
+UART2_CR3_CPHA	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1945;"	macro
+UART2_CR3_CPOL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1944;"	macro
+UART2_CR3_LBCL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1946;"	macro
+UART2_CR3_LINEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1941;"	macro
+UART2_CR3_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1894;"	macro
+UART2_CR3_STOP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1942;"	macro
+UART2_CR4_ADD	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1951;"	macro
+UART2_CR4_LBDF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1950;"	macro
+UART2_CR4_LBDIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1948;"	macro
+UART2_CR4_LBDL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1949;"	macro
+UART2_CR4_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1895;"	macro
+UART2_CR5_IREN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1956;"	macro
+UART2_CR5_IRLP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1955;"	macro
+UART2_CR5_NACK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1954;"	macro
+UART2_CR5_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1896;"	macro
+UART2_CR5_SCEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1953;"	macro
+UART2_CR6_LASE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1960;"	macro
+UART2_CR6_LDUM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1958;"	macro
+UART2_CR6_LHDF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1962;"	macro
+UART2_CR6_LHDIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1961;"	macro
+UART2_CR6_LSF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1963;"	macro
+UART2_CR6_LSLV	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1959;"	macro
+UART2_CR6_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1897;"	macro
+UART2_GTR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1898;"	macro
+UART2_PSCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1899;"	macro
+UART2_SR_FE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1915;"	macro
+UART2_SR_IDLE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1912;"	macro
+UART2_SR_NF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1914;"	macro
+UART2_SR_OR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1913;"	macro
+UART2_SR_PE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1916;"	macro
+UART2_SR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1889;"	macro
+UART2_SR_RXNE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1911;"	macro
+UART2_SR_TC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1910;"	macro
+UART2_SR_TXE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1909;"	macro
+UART2_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1883;"	typedef	typeref:struct:UART2_struct
+UART2_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1868;"	struct
+UART3	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2672;"	macro
+UART3_BRR1_DIVM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2020;"	macro
+UART3_BRR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1995;"	macro
+UART3_BRR2_DIVF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2023;"	macro
+UART3_BRR2_DIVM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2022;"	macro
+UART3_BRR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1996;"	macro
+UART3_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2581;"	macro
+UART3_CR1_M	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2028;"	macro
+UART3_CR1_PCEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2030;"	macro
+UART3_CR1_PIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2032;"	macro
+UART3_CR1_PS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2031;"	macro
+UART3_CR1_R8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2025;"	macro
+UART3_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1997;"	macro
+UART3_CR1_T8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2026;"	macro
+UART3_CR1_UARTD	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2027;"	macro
+UART3_CR1_WAKE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2029;"	macro
+UART3_CR2_ILIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2037;"	macro
+UART3_CR2_REN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2039;"	macro
+UART3_CR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1998;"	macro
+UART3_CR2_RIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2036;"	macro
+UART3_CR2_RWU	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2040;"	macro
+UART3_CR2_SBK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2041;"	macro
+UART3_CR2_TCIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2035;"	macro
+UART3_CR2_TEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2038;"	macro
+UART3_CR2_TIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2034;"	macro
+UART3_CR3_LINEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2043;"	macro
+UART3_CR3_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1999;"	macro
+UART3_CR3_STOP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2044;"	macro
+UART3_CR4_ADD	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2049;"	macro
+UART3_CR4_LBDF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2048;"	macro
+UART3_CR4_LBDIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2046;"	macro
+UART3_CR4_LBDL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2047;"	macro
+UART3_CR4_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2000;"	macro
+UART3_CR6_LASE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2053;"	macro
+UART3_CR6_LDUM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2051;"	macro
+UART3_CR6_LHDF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2055;"	macro
+UART3_CR6_LHDIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2054;"	macro
+UART3_CR6_LSF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2056;"	macro
+UART3_CR6_LSLV	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2052;"	macro
+UART3_CR6_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2001;"	macro
+UART3_SR_FE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2017;"	macro
+UART3_SR_IDLE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2014;"	macro
+UART3_SR_NF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2016;"	macro
+UART3_SR_OR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2015;"	macro
+UART3_SR_PE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2018;"	macro
+UART3_SR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1994;"	macro
+UART3_SR_RXNE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2013;"	macro
+UART3_SR_TC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2012;"	macro
+UART3_SR_TXE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2011;"	macro
+UART3_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1988;"	typedef	typeref:struct:UART3_struct
+UART3_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1975;"	struct
+UART4	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2676;"	macro
+UART4_BRR1_DIVM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2117;"	macro
+UART4_BRR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2089;"	macro
+UART4_BRR2_DIVF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2120;"	macro
+UART4_BRR2_DIVM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2119;"	macro
+UART4_BRR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2090;"	macro
+UART4_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2582;"	macro
+UART4_CR1_M	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2125;"	macro
+UART4_CR1_PCEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2127;"	macro
+UART4_CR1_PIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2129;"	macro
+UART4_CR1_PS	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2128;"	macro
+UART4_CR1_R8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2122;"	macro
+UART4_CR1_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2091;"	macro
+UART4_CR1_T8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2123;"	macro
+UART4_CR1_UARTD	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2124;"	macro
+UART4_CR1_WAKE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2126;"	macro
+UART4_CR2_ILIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2134;"	macro
+UART4_CR2_REN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2136;"	macro
+UART4_CR2_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2092;"	macro
+UART4_CR2_RIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2133;"	macro
+UART4_CR2_RWU	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2137;"	macro
+UART4_CR2_SBK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2138;"	macro
+UART4_CR2_TCIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2132;"	macro
+UART4_CR2_TEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2135;"	macro
+UART4_CR2_TIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2131;"	macro
+UART4_CR3_CKEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2142;"	macro
+UART4_CR3_CPHA	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2144;"	macro
+UART4_CR3_CPOL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2143;"	macro
+UART4_CR3_LBCL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2145;"	macro
+UART4_CR3_LINEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2140;"	macro
+UART4_CR3_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2093;"	macro
+UART4_CR3_STOP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2141;"	macro
+UART4_CR4_ADD	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2150;"	macro
+UART4_CR4_LBDF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2149;"	macro
+UART4_CR4_LBDIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2147;"	macro
+UART4_CR4_LBDL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2148;"	macro
+UART4_CR4_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2094;"	macro
+UART4_CR5_HDSEL	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2154;"	macro
+UART4_CR5_IREN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2156;"	macro
+UART4_CR5_IRLP	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2155;"	macro
+UART4_CR5_NACK	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2153;"	macro
+UART4_CR5_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2095;"	macro
+UART4_CR5_SCEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2152;"	macro
+UART4_CR6_LASE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2160;"	macro
+UART4_CR6_LDUM	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2158;"	macro
+UART4_CR6_LHDF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2162;"	macro
+UART4_CR6_LHDIEN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2161;"	macro
+UART4_CR6_LSF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2163;"	macro
+UART4_CR6_LSLV	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2159;"	macro
+UART4_CR6_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2096;"	macro
+UART4_GTR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2097;"	macro
+UART4_PSCR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2098;"	macro
+UART4_SR_FE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2114;"	macro
+UART4_SR_IDLE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2111;"	macro
+UART4_SR_NF	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2113;"	macro
+UART4_SR_OR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2112;"	macro
+UART4_SR_PE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2115;"	macro
+UART4_SR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2088;"	macro
+UART4_SR_RXNE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2110;"	macro
+UART4_SR_TC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2109;"	macro
+UART4_SR_TXE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2108;"	macro
+UART4_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2082;"	typedef	typeref:struct:UART4_struct
+UART4_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2067;"	struct
+UNUSED	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2808;"	macro
+VECTOR_ID	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2762;"	macro
+ValBit	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2801;"	macro
+WR	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1639;"	member	struct:WWDG_struct
+WWDG	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2655;"	macro
+WWDG_BaseAddress	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2573;"	macro
+WWDG_CR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1647;"	macro
+WWDG_CR_T	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1660;"	macro
+WWDG_CR_T6	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1659;"	macro
+WWDG_CR_WDGA	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1658;"	macro
+WWDG_TypeDef	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1641;"	typedef	typeref:struct:WWDG_struct
+WWDG_WR_MSB	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1662;"	macro
+WWDG_WR_RESET_VALUE	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1648;"	macro
+WWDG_WR_W	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1663;"	macro
+WWDG_struct	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	1636;"	struct
+_COSMIC_	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	83;"	macro
+_IAR_	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	87;"	macro
+_RAISONANCE_	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	85;"	macro
+__I	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	209;"	macro
+__IO	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	211;"	macro
+__MODS0__	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\mods0.h	11;"	macro
+__O	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	210;"	macro
+__SIZE_T__	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h	9;"	macro
+__STDIO__	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h	6;"	macro
+__STM8S_H	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	30;"	macro
+__STM8S_STDPERIPH_VERSION	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	189;"	macro
+__STM8S_STDPERIPH_VERSION_MAIN	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	185;"	macro
+__STM8S_STDPERIPH_VERSION_RC	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	188;"	macro
+__STM8S_STDPERIPH_VERSION_SUB1	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	186;"	macro
+__STM8S_STDPERIPH_VERSION_SUB2	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	187;"	macro
+_stext	stm8_interrupt_vector.c	20;"	prototype	file:
+_vectab	stm8_interrupt_vector.c	22;"	variable
+bool	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	234;"	typedef	typeref:enum:__anon1
+disableInterrupts	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2720;"	macro
+disableInterrupts	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2729;"	macro
+disableInterrupts	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2739;"	macro
+enableInterrupts	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2719;"	macro
+enableInterrupts	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2728;"	macro
+enableInterrupts	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2738;"	macro
+gb_bled_conf	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_gpio.h	7;"	prototype	signature:(void)
+gb_bled_conf	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_gpio.c	4;"	function	signature:(void)
+gb_delay_ms	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_delay.h	13;"	prototype	signature:(uint16_t ms)
+gb_delay_ms	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_delay.c	38;"	function	signature:(uint16_t gb_ms)
+gb_delay_sec	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_delay.h	14;"	prototype	signature:(uint16_t secs)
+gb_delay_sec	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_delay.c	46;"	function	signature:(uint16_t gb_secs)
+gb_delay_us	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_delay.h	12;"	prototype	signature:(uint16_t us)
+gb_delay_us	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_delay.c	27;"	function	signature:(uint16_t gb_us)
+gb_spi_ma_init	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_spi.h	9;"	prototype	signature:(void)
+gb_spi_ma_init	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_spi.c	28;"	function	signature:(void)
+gb_spi_mast_rec_byte	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_spi.h	11;"	prototype	signature:(void)
+gb_spi_mast_rec_byte	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_spi.c	59;"	function	signature:(void)
+gb_spi_mast_tran_byte	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_spi.h	10;"	prototype	signature:(uint8_t gb_data)
+gb_spi_mast_tran_byte	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_spi.c	52;"	function	signature:(uint8_t gb_data)
+gb_spi_pin_config	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_spi.h	8;"	prototype	signature:(void)
+gb_spi_pin_config	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_spi.c	5;"	function	signature:(void)
+gb_timer_init	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_delay.h	10;"	prototype	signature:(void)
+gb_timer_init	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_delay.c	4;"	function	signature:(void)
+gb_tmp	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_uart.c	21;"	variable
+gb_uart1_baud	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_uart.h	11;"	prototype	signature:(void)
+gb_uart1_baud	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_uart.c	16;"	function	signature:(void)
+gb_uart1_pin_conf	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_uart.h	10;"	prototype	signature:(void)
+gb_uart1_pin_conf	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_uart.c	5;"	function	signature:(void)
+gb_uart_init	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_uart.h	13;"	prototype	signature:(void)
+gb_uart_init	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_uart.c	23;"	function	signature:(void)
+gb_uart_receive_byte	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_uart.h	18;"	prototype	signature:(void)
+gb_uart_receive_byte	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_uart.c	111;"	function
+gb_uart_tran_bin_byte	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_uart.h	16;"	prototype	signature:(uint8_t gb_val)
+gb_uart_tran_bin_byte	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_uart.c	77;"	function	signature:(uint8_t gb_val)
+gb_uart_tran_byte	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_uart.h	14;"	prototype	signature:(uint8_t gb_byte)
+gb_uart_tran_byte	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_uart.c	60;"	function	signature:(uint8_t gb_byte)
+gb_uart_tran_dec	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_uart.h	17;"	prototype	signature:(uint8_t gb_val)
+gb_uart_tran_dec	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_uart.c	92;"	function	signature:(uint8_t gb_val)
+gb_uart_tran_string	..\gb_bare_metal_drivers\stm8_driver_include\gb_stm8s103_uart.h	15;"	prototype	signature:(const uint8_t *gb_myString)
+gb_uart_tran_string	..\gb_bare_metal_drivers\stm8_driver_source\gb_stm8s103_uart.c	70;"	function	signature:(const uint8_t *gb_myString)
+getchar	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h	15;"	prototype	signature:(void)
+gets	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h	16;"	prototype	signature:(char *s)
+halt	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2726;"	macro
+halt	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2735;"	macro
+halt	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2745;"	macro
+int16_t	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	215;"	typedef
+int32_t	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	216;"	typedef
+int8_t	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	214;"	typedef
+interrupt_handler	stm8_interrupt_vector.c	9;"	member	struct:interrupt_vector	file:
+interrupt_handler_t	stm8_interrupt_vector.c	5;"	typedef	file:
+interrupt_instruction	stm8_interrupt_vector.c	8;"	member	struct:interrupt_vector	file:
+interrupt_vector	stm8_interrupt_vector.c	7;"	struct	file:
+main	main.c	14;"	function
+nop	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2723;"	macro
+nop	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2732;"	macro
+nop	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2742;"	macro
+printf	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h	17;"	prototype	signature:(char *format, ...)
+putchar	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h	18;"	prototype	signature:(char c)
+puts	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h	19;"	prototype	signature:(char *s)
+rim	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2721;"	macro
+rim	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2730;"	macro
+rim	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2740;"	macro
+s16	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	226;"	typedef
+s32	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	225;"	typedef
+s8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	227;"	typedef
+scanf	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h	20;"	prototype	signature:(char *format, ...)
+sim	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2722;"	macro
+sim	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2731;"	macro
+sim	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2741;"	macro
+size_t	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h	10;"	typedef
+sprintf	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h	22;"	prototype	signature:(char *s, char *format, ...)
+sscanf	..\..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\stdio.h	21;"	prototype	signature:(char *s, char *format, ...)
+trap	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2724;"	macro
+trap	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2733;"	macro
+trap	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2743;"	macro
+u16	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	230;"	typedef
+u32	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	229;"	typedef
+u8	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	231;"	typedef
+uint16_t	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	220;"	typedef
+uint32_t	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	221;"	typedef
+uint8_t	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	219;"	typedef
+wfi	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2725;"	macro
+wfi	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2734;"	macro
+wfi	..\gb_bare_metal_drivers\stm8_default_headers\stm8s.h	2744;"	macro

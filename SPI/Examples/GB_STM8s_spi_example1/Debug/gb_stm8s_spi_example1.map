@@ -1,0 +1,221 @@
+
+Map of Debug\gb_stm8s_spi_example1.sm8 from link file Debug\gb_stm8s_spi_example1.lkf - Thu Jun 10 02:45:08 2021
+
+
+                               --------
+                               Segments
+                               --------
+
+start 00008080 end 00008080 length     0 segment .const
+start 00008089 end 0000831b length   658 segment .text
+start 00004000 end 00004000 length     0 segment .eeprom
+start 00000000 end 00000001 length     1 segment .bsct, initialized
+start 00008088 end 00008089 length     1 segment .bsct, from
+start 00000001 end 00000007 length     6 segment .ubsct
+start 00000007 end 00000007 length     0 segment .bit
+start 00000007 end 00000007 length     0 segment .share
+start 00000100 end 00000100 length     0 segment .data
+start 00000100 end 00000100 length     0 segment .bss
+start 00000000 end 00000398 length   920 segment .info.
+start 00000000 end 00000ab7 length  2743 segment .debug
+start 00008000 end 00008080 length   128 segment .const
+start 00008080 end 00008088 length     8 segment .init
+
+
+                               -------
+                               Modules
+                               -------
+
+C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8:
+start 00008089 end 000080d9 length    80 section .text
+start 00000100 end 00000100 length     0 section .bss
+start 00000001 end 00000001 length     0 section .ubsct
+start 00000000 end 00000034 length    52 section .info.
+
+Debug\gb_stm8s103_delay.o:
+start 000080d9 end 00008151 length   120 section .text
+start 00000000 end 00000265 length   613 section .debug
+start 00000034 end 000000ac length   120 section .info.
+
+Debug\gb_stm8s103_gpio.o:
+start ******** end ******** length     0 section .text *** removed ***
+start 00000265 end 00000327 length   194 section .debug
+start 000000ac end 00000123 length   119 section .info.
+
+Debug\gb_stm8s103_spi.o:
+start 00008151 end 000081c4 length   115 section .text
+start 00000327 end 00000501 length   474 section .debug
+start 00000123 end 00000199 length   118 section .info.
+
+Debug\gb_stm8s103_uart.o:
+start 000081c4 end 000082e7 length   291 section .text
+start 00000000 end 00000001 length     1 section .bsct
+start 00000501 end 0000089e length   925 section .debug
+start 00000199 end 00000210 length   119 section .info.
+
+Debug\main.o:
+start 000082e7 end 0000831a length    51 section .text
+start 0000089e end 0000094c length   174 section .debug
+start 00000210 end 0000027b length   107 section .info.
+
+(C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\libm0.sm8)xreg.o:
+start 00000001 end 00000004 length     3 section .ubsct
+start 0000027b end 000002aa length    47 section .info.
+
+(C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\libm0.sm8)yreg.o:
+start 00000004 end 00000007 length     3 section .ubsct
+start 000002aa end 000002d9 length    47 section .info.
+
+Debug\stm8_interrupt_vector.o:
+start 0000831a end 0000831b length     1 section .text
+start 0000094c end 00000ab7 length   363 section .debug
+start 000002d9 end 00000355 length   124 section .info.
+start 00008000 end 00008080 length   128 section .const
+
+
+                             -----------
+                             Stack usage
+                             -----------
+
+Debug\gb_stm8s103_delay.o:
+_gb_delay_ms                12   (8)
+_gb_delay_sec           >   18   (6)
+_gb_delay_us                 4   (4)
+_gb_timer_init               2   (2)
+
+Debug\gb_stm8s103_spi.o:
+_gb_spi_ma_init              4   (2)
+_gb_spi_mast_rec_byte        3   (3)
+_gb_spi_mast_tran_byte       2   (2)
+_gb_spi_pin_config           2   (2)
+
+Debug\gb_stm8s103_uart.o:
+_gb_uart1_baud               2   (2)
+_gb_uart1_pin_conf           2   (2)
+_gb_uart_init                4   (2)
+_gb_uart_receive_byte   >    2   (2)
+_gb_uart_tran_bin_byte  >    9   (6)
+_gb_uart_tran_byte           3   (3)
+_gb_uart_tran_dec       >   14   (11)
+_gb_uart_tran_string    >    7   (4)
+
+Debug\main.o:
+_main                   >   14   (2)
+
+Debug\stm8_interrupt_vector.o:
+f_NonHandledInterrupt   >    6   (6)
+
+Stack size: 24
+
+
+                              ---------
+                              Call tree
+                              ---------
+   1 > __stext: (0)
+
+   2 > _gb_delay_sec: (6)
+   3      + _gb_delay_ms: (8)
+   4      |    + _gb_delay_us: (4)
+          | 
+       
+   5 > _gb_uart_receive_byte: (2)
+
+   6 > _gb_uart_tran_bin_byte: (6)
+   7      + _gb_uart_tran_byte: (3)
+       
+   8 > _gb_uart_tran_dec: (11)
+   9      + _gb_uart_tran_byte --> 7
+       
+  10 > _gb_uart_tran_string: (4)
+  11      + _gb_uart_tran_byte --> 7
+       
+  12 > _main: (2)
+  13      + _gb_delay_ms --> 3
+  14      + _gb_spi_ma_init: (2)
+  15      |    + _gb_spi_pin_config: (2)
+          | 
+  16      + _gb_spi_mast_rec_byte: (3)
+  17      + _gb_spi_mast_tran_byte: (2)
+  18      + _gb_timer_init: (2)
+  19      + _gb_uart_init: (2)
+  20      |    + _gb_uart1_baud: (2)
+  21      |    + _gb_uart1_pin_conf: (2)
+          | 
+       
+  22 > f_NonHandledInterrupt: (6)
+
+  23   _gb_delay_ms --> 3
+
+  24   _gb_delay_us --> 4
+
+  25   _gb_spi_ma_init --> 14
+
+  26   _gb_spi_mast_rec_byte --> 16
+
+  27   _gb_spi_mast_tran_byte --> 17
+
+  28   _gb_spi_pin_config --> 15
+
+  29   _gb_timer_init --> 18
+
+  30   _gb_uart1_baud --> 20
+
+  31   _gb_uart1_pin_conf --> 21
+
+  32   _gb_uart_init --> 19
+
+  33   _gb_uart_tran_byte --> 7
+
+
+
+                               -------
+                               Symbols
+                               -------
+
+__endmem                 000001ff   defined in command file
+                                    *** not used ***
+__endzp                  00000007   defined in command file section .ubsct
+                                    used in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8
+__idesc__                00008080   defined in linker section .init
+                                    used in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8
+__memory                 00000100   defined in command file section .bss
+                                    used in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8
+__stack                  000003ff   defined in command file
+                                    used in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8
+__startmem               00000100   defined in command file section .bss
+                                    *** not used ***
+__stext                  00008089   defined in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8 section .text
+                                    used in Debug\stm8_interrupt_vector.o
+__vectab                 00008000   defined in Debug\stm8_interrupt_vector.o section .const
+_exit                    000080d7   defined in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8 section .text
+_gb_bled_conf            ********   *** removed from Debug\gb_stm8s103_gpio.o ***
+_gb_delay_ms             00008116   defined in Debug\gb_stm8s103_delay.o section .text
+                                    used in Debug\main.o
+_gb_delay_sec            00008133   defined in Debug\gb_stm8s103_delay.o section .text
+_gb_delay_us             000080fe   defined in Debug\gb_stm8s103_delay.o section .text
+_gb_spi_ma_init          00008172   defined in Debug\gb_stm8s103_spi.o section .text
+                                    used in Debug\main.o
+_gb_spi_mast_rec_byte    000081a3   defined in Debug\gb_stm8s103_spi.o section .text
+                                    used in Debug\main.o
+_gb_spi_mast_tran_byte   00008191   defined in Debug\gb_stm8s103_spi.o section .text
+                                    used in Debug\main.o
+_gb_spi_pin_config       00008151   defined in Debug\gb_stm8s103_spi.o section .text
+_gb_timer_init           000080d9   defined in Debug\gb_stm8s103_delay.o section .text
+                                    used in Debug\main.o
+_gb_tmp                  00000000   defined in Debug\gb_stm8s103_uart.o section .bsct, initialized
+_gb_uart1_baud           000081cd   defined in Debug\gb_stm8s103_uart.o section .text
+_gb_uart1_pin_conf       000081c4   defined in Debug\gb_stm8s103_uart.o section .text
+_gb_uart_init            000081d6   defined in Debug\gb_stm8s103_uart.o section .text
+                                    used in Debug\main.o
+_gb_uart_receive_byte    000082dc   defined in Debug\gb_stm8s103_uart.o section .text
+_gb_uart_tran_bin_byte   0000821e   defined in Debug\gb_stm8s103_uart.o section .text
+_gb_uart_tran_byte       000081f1   defined in Debug\gb_stm8s103_uart.o section .text
+_gb_uart_tran_dec        00008259   defined in Debug\gb_stm8s103_uart.o section .text
+_gb_uart_tran_string     00008207   defined in Debug\gb_stm8s103_uart.o section .text
+_main                    000082e7   defined in Debug\main.o section .text
+                                    used in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8
+c_x                      00000001   defined in (C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\libm0.sm8)xreg.o section .ubsct
+                                    used in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8
+c_y                      00000004   defined in (C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\libm0.sm8)yreg.o section .ubsct
+                                    used in C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\lib\crtsi0.sm8
+f_NonHandledInterrupt    0000831a   defined in Debug\stm8_interrupt_vector.o section .text
