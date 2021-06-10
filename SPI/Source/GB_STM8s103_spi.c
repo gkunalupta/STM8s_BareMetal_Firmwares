@@ -1,7 +1,5 @@
 #include "GB_STM8s103_spi.h"
 
-
-
 void gb_spi_pin_config(void)
 {
 	// MOSI: PC6(Output), MISO: PC7(input), SCK: PC5(output), PA3: NSS(output)
